@@ -1,0 +1,21 @@
+18:00:26.798 > >>> Completed 0 share(s), 4233 Khashes, avg. hashrate 77.21 KH/s
+18:00:26.798 > btc price:
+18:00:26.935 >   Sending  : {"id": 16, "method": "mining.submit", "params": ["34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo","24c905d","00000002","66c0749d","1ab7350c"]}
+18:00:26.946 >    - Current diff share: 0.000136081660
+18:00:26.949 >    - Current pool diff : 0.000100000000
+18:00:26.955 >    - TX SHARE: 23564ba29cfbd08bfb12f486bb1236d0e60b3008a9b569c6d9eaab6ab41c0000
+18:00:27.827 > >>> Completed 0 share(s), 4314 Khashes, avg. hashrate 76.27 KH/s
+18:00:27.832 > btc price:
+18:00:27.881 >   Received message from pool
+18:00:27.881 >   Receiving: {"id":16,"error":null,"result":true}
+18:00:27.886 >   Parsed JSON: Success
+18:00:28.890 > >>> Completed 0 share(s), 4396 Khashes, avg. hashrate 77.14 KH/s
+18:00:28.895 > btc price:
+18:00:29.952 > >>> Completed 0 share(s), 4478 Khashes, avg. hashrate 77.21 KH/s
+18:00:29.957 > btc price:
+18:00:31.016 > >>> Completed 0 share(s), 4560 Khashes, avg. hashrate 77.14 KH/s
+18:00:31.021 > btc price:
+18:00:31.069 >   Received message from pool
+18:00:31.069 >   Receiving: {"id":null,"method":"mining.set_difficulty","params":[0.001]}
+18:00:31.077 >     Parsing Method [SET DIFFICULTY]
+18:00:31.080 >     difficulty: 0.001000000000

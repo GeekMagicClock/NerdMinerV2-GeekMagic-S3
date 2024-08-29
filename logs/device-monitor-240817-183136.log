@@ -1,0 +1,2 @@
+18:31:39.635 >   Sending  : KeepAlive suggest_difficulty
+18:31:39.637 >   Sending  : {"id": 100, "method": "mining.suggest_difficulty", "params": [0.0001]}

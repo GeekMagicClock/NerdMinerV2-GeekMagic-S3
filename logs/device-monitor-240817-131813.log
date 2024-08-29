@@ -1,0 +1,29 @@
+13:18:14.537 > TimeClient NTPupdateTime >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+13:18:14.537 > btc price:
+13:18:14.537 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>true / subscribed>false / wificonnected>true
+13:18:14.537 > Client not connected, trying to connect...
+13:18:14.537 > [WORKER] ==> Mining subscribe
+13:18:14.537 >   Sending  : {"id": 1, "method": "mining.subscribe", "params": ["NerdMinerV2/V1.6.3"]}
+13:18:14.537 > 
+13:18:15.003 > Client not connected, trying to connect...
+13:18:15.010 > [WORKER] ==> Mining subscribe
+13:18:15.010 >   Sending  : {"id": 1, "method": "mining.subscribe", "params": ["NerdMinerV2/V1.6.3"]}
+13:18:15.020 > 
+13:18:15.836 > TimeClient NTPupdateTime >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+13:18:15.845 > btc price:
+13:18:15.895 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>true / subscribed>false / wificonnected>true
+13:18:16.212 > Client not connected, trying to connect...
+13:18:16.215 > [WORKER] ==> Mining subscribe
+13:18:16.218 >   Sending  : {"id": 1, "method": "mining.subscribe", "params": ["NerdMinerV2/V1.6.3"]}
+13:18:16.226 > 
+13:18:17.419 > Client not connected, trying to connect...
+13:18:17.427 > [WORKER] ==> Mining subscribe
+13:18:17.428 >   Sending  : {"id": 1, "method": "mining.subscribe", "params": ["NerdMinerV2/V1.6.3"]}
+13:18:17.437 > 
+13:18:17.938 > TimeClient NTPupdateTime >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+13:18:17.947 > btc price:
+13:18:17.997 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>true / subscribed>false / wificonnected>true
+13:18:18.630 > Client not connected, trying to connect...
+13:18:18.635 > [WORKER] ==> Mining subscribe
+13:18:18.636 >   Sending  : {"id": 1, "method": "mining.subscribe", "params": ["NerdMinerV2/V1.6.3"]}
+13:18:18.645 > 

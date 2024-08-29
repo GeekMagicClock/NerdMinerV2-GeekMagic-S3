@@ -1,0 +1,9 @@
+13:45:12.357 > TimeClient NTPupdateTime >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+13:45:12.357 > btc price:
+13:45:12.357 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>false / subscribed>false / wificonnected>true
+13:45:14.346 > TimeClient NTPupdateTime >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+13:45:14.356 > btc price:
+13:45:14.405 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>false / subscribed>false / wificonnected>true
+13:45:16.440 > TimeClient NTPupdateTime >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+13:45:16.450 > btc price:
+13:45:16.499 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>false / subscribed>false / wificonnected>true

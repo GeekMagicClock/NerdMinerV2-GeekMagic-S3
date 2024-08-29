@@ -1,0 +1,12 @@
+18:05:24.496 > >>> Completed 0 share(s), 27118 Khashes, avg. hashrate 77.07 KH/s
+18:05:24.496 > btc price:
+18:05:25.499 > >>> Completed 0 share(s), 27200 Khashes, avg. hashrate 77.07 KH/s
+18:05:25.505 > btc price:
+18:05:26.564 > >>> Completed 0 share(s), 27282 Khashes, avg. hashrate 77.00 KH/s
+18:05:26.570 > btc price:
+18:05:26.619 >   Sending  : KeepAlive suggest_difficulty
+18:05:26.622 >   Sending  : {"id": 29, "method": "mining.suggest_difficulty", "params": [0.0001]}
+18:05:27.628 > >>> Completed 0 share(s), 27363 Khashes, avg. hashrate 76.13 KH/s
+18:05:27.634 > btc price:
+18:05:28.692 > >>> Completed 0 share(s), 27446 Khashes, avg. hashrate 78.01 KH/s
+18:05:28.698 > btc price:

@@ -1,0 +1,19 @@
+17:43:48.224 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>false / subscribed>false / wificonnected>true
+17:43:48.224 > >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+17:43:48.224 > btc price:
+17:43:48.257 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>false / subscribed>false / wificonnected>true
+17:43:49.267 > >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+17:43:49.269 > btc price:
+17:43:49.318 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>false / subscribed>false / wificonnected>true
+17:43:50.327 > >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+17:43:50.330 > btc price:
+17:43:50.379 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>false / subscribed>false / wificonnected>true
+17:43:51.389 > >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+17:43:51.391 > btc price:
+17:43:51.440 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>false / subscribed>false / wificonnected>true
+17:43:52.450 > >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+17:43:52.452 > btc price:
+17:43:52.501 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>false / subscribed>false / wificonnected>true
+17:43:52.509 > [WORKER] ==> Mining subscribe
+17:43:52.512 >   Sending  : {"id": 1, "method": "mining.subscribe", "params": ["NerdMinerV2/V1.6.3"]}
+17:43:52.520 > 

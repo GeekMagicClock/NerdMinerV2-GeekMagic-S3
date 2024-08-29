@@ -1,0 +1,843 @@
+09:41:49.051 > N)����0x8 (SPI_FAST_FLASH_BOOT)
+09:41:49.051 > SPIWP:0xee
+09:41:49.051 > mode:DIO, clock div:1
+09:41:49.051 > load:0x3fce3808,len:0x44c
+09:41:49.051 > load:0x403c9700,len:0xbd8
+09:41:49.051 > load:0x403cc700,len:0x2a80
+09:41:49.051 > entry 0x403c98d0
+09:41:49.051 > E (323) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:41:49.051 > NerdMiner v2 starting......
+09:41:49.051 > [   444][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:41:49.051 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:41:49.051 > [   447][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:41:49.051 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:41:49.051 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:41:49.051 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:41:50.826 > ESP-ROM:esp32s3-20210327
+09:41:50.826 > Build:Mar 27 2021
+09:41:50.828 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:41:50.834 > Saved PC:0x4037e0f5
+09:41:50.834 > SPIWP:0xee
+09:41:50.837 > mode:DIO, clock div:1
+09:41:50.837 > load:0x3fce3808,len:0x44c
+09:41:50.840 > load:0x403c9700,len:0xbd8
+09:41:50.842 > load:0x403cc700,len:0x2a80
+09:41:50.845 > entry 0x403c98d0
+09:41:51.147 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:41:51.268 > NerdMiner v2 starting......
+09:41:51.269 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:41:51.276 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:41:51.282 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:41:51.287 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:41:51.293 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:41:51.308 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:41:53.753 > ESP-ROM:esp32s3-20210327
+09:41:53.753 > Build:Mar 27 2021
+09:41:53.755 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:41:53.761 > Saved PC:0x4037e0f5
+09:41:53.761 > SPIWP:0xee
+09:41:53.763 > mode:DIO, clock div:1
+09:41:53.763 > load:0x3fce3808,len:0x44c
+09:41:53.766 > load:0x403c9700,len:0xbd8
+09:41:53.769 > load:0x403cc700,len:0x2a80
+09:41:53.772 > entry 0x403c98d0
+09:41:54.074 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:41:54.195 > NerdMiner v2 starting......
+09:41:54.195 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:41:54.203 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:41:54.208 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:41:54.214 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:41:54.219 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:41:54.234 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:41:56.679 > ESP-ROM:esp32s3-20210327
+09:41:56.680 > Build:Mar 27 2021
+09:41:56.682 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:41:56.687 > Saved PC:0x4037e0f5
+09:41:56.687 > SPIWP:0xee
+09:41:56.690 > mode:DIO, clock div:1
+09:41:56.690 > load:0x3fce3808,len:0x44c
+09:41:56.693 > load:0x403c9700,len:0xbd8
+09:41:56.695 > load:0x403cc700,len:0x2a80
+09:41:56.698 > entry 0x403c98d0
+09:41:57.001 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:41:57.121 > NerdMiner v2 starting......
+09:41:57.122 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:41:57.129 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:41:57.135 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:41:57.141 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:41:57.146 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:41:57.161 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:41:59.606 > ESP-ROM:esp32s3-20210327
+09:41:59.606 > Build:Mar 27 2021
+09:41:59.608 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:41:59.614 > Saved PC:0x4037e0f5
+09:41:59.614 > SPIWP:0xee
+09:41:59.616 > mode:DIO, clock div:1
+09:41:59.616 > load:0x3fce3808,len:0x44c
+09:41:59.619 > load:0x403c9700,len:0xbd8
+09:41:59.622 > load:0x403cc700,len:0x2a80
+09:41:59.625 > entry 0x403c98d0
+09:41:59.927 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:42:00.048 > NerdMiner v2 starting......
+09:42:00.048 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:42:00.056 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:00.061 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:42:00.067 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:00.073 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:00.087 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:02.532 > ESP-ROM:esp32s3-20210327
+09:42:02.532 > Build:Mar 27 2021
+09:42:02.535 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:42:02.540 > Saved PC:0x4037e0f5
+09:42:02.540 > SPIWP:0xee
+09:42:02.544 > mode:DIO, clock div:1
+09:42:02.544 > load:0x3fce3808,len:0x44c
+09:42:02.546 > load:0x403c9700,len:0xbd8
+09:42:02.549 > load:0x403cc700,len:0x2a80
+09:42:02.553 > entry 0x403c98d0
+09:42:02.854 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:42:02.974 > NerdMiner v2 starting......
+09:42:02.975 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:42:02.982 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:02.988 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:42:02.993 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:02.999 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:03.014 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:05.459 > ESP-ROM:esp32s3-20210327
+09:42:05.459 > Build:Mar 27 2021
+09:42:05.461 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:42:05.467 > Saved PC:0x4037e0f5
+09:42:05.467 > SPIWP:0xee
+09:42:05.469 > mode:DIO, clock div:1
+09:42:05.469 > load:0x3fce3808,len:0x44c
+09:42:05.472 > load:0x403c9700,len:0xbd8
+09:42:05.475 > load:0x403cc700,len:0x2a80
+09:42:05.478 > entry 0x403c98d0
+09:42:05.780 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:42:05.901 > NerdMiner v2 starting......
+09:42:05.901 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:42:05.909 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:05.915 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:42:05.920 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:05.926 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:05.941 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:08.385 > ESP-ROM:esp32s3-20210327
+09:42:08.386 > Build:Mar 27 2021
+09:42:08.388 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:42:08.393 > Saved PC:0x4037e0f5
+09:42:08.393 > SPIWP:0xee
+09:42:08.396 > mode:DIO, clock div:1
+09:42:08.396 > load:0x3fce3808,len:0x44c
+09:42:08.399 > load:0x403c9700,len:0xbd8
+09:42:08.402 > load:0x403cc700,len:0x2a80
+09:42:08.404 > entry 0x403c98d0
+09:42:08.707 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:42:08.827 > NerdMiner v2 starting......
+09:42:08.828 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:42:08.835 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:08.841 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:42:08.847 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:08.852 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:08.867 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:11.312 > ESP-ROM:esp32s3-20210327
+09:42:11.312 > Build:Mar 27 2021
+09:42:11.314 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:42:11.320 > Saved PC:0x4037e0f5
+09:42:11.320 > SPIWP:0xee
+09:42:11.323 > mode:DIO, clock div:1
+09:42:11.323 > load:0x3fce3808,len:0x44c
+09:42:11.325 > load:0x403c9700,len:0xbd8
+09:42:11.328 > load:0x403cc700,len:0x2a80
+09:42:11.331 > entry 0x403c98d0
+09:42:11.633 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:42:11.754 > NerdMiner v2 starting......
+09:42:11.754 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:42:11.762 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:11.768 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:42:11.773 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:11.779 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:11.794 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:14.238 > ESP-ROM:esp32s3-20210327
+09:42:14.239 > Build:Mar 27 2021
+09:42:14.241 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:42:14.246 > Saved PC:0x4037e0f5
+09:42:14.246 > SPIWP:0xee
+09:42:14.249 > mode:DIO, clock div:1
+09:42:14.249 > load:0x3fce3808,len:0x44c
+09:42:14.252 > load:0x403c9700,len:0xbd8
+09:42:14.255 > load:0x403cc700,len:0x2a80
+09:42:14.258 > entry 0x403c98d0
+09:42:14.560 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:42:14.681 > NerdMiner v2 starting......
+09:42:14.681 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:42:14.689 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:14.694 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:42:14.700 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:14.705 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:14.720 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:17.165 > ESP-ROM:esp32s3-20210327
+09:42:17.165 > Build:Mar 27 2021
+09:42:17.167 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:42:17.173 > Saved PC:0x4037e0f5
+09:42:17.173 > SPIWP:0xee
+09:42:17.176 > mode:DIO, clock div:1
+09:42:17.176 > load:0x3fce3808,len:0x44c
+09:42:17.178 > load:0x403c9700,len:0xbd8
+09:42:17.181 > load:0x403cc700,len:0x2a80
+09:42:17.184 > entry 0x403c98d0
+09:42:17.486 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:42:17.607 > NerdMiner v2 starting......
+09:42:17.608 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:42:17.615 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:17.621 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:42:17.626 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:17.632 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:17.647 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:20.091 > ESP-ROM:esp32s3-20210327
+09:42:20.092 > Build:Mar 27 2021
+09:42:20.094 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:42:20.100 > Saved PC:0x4037e0f5
+09:42:20.100 > SPIWP:0xee
+09:42:20.102 > mode:DIO, clock div:1
+09:42:20.102 > load:0x3fce3808,len:0x44c
+09:42:20.105 > load:0x403c9700,len:0xbd8
+09:42:20.108 > load:0x403cc700,len:0x2a80
+09:42:20.111 > entry 0x403c98d0
+09:42:20.413 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:42:20.534 > NerdMiner v2 starting......
+09:42:20.534 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:42:20.542 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:20.547 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:42:20.553 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:20.558 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:20.573 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:23.018 > ESP-ROM:esp32s3-20210327
+09:42:23.018 > Build:Mar 27 2021
+09:42:23.021 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:42:23.026 > Saved PC:0x4037e0f5
+09:42:23.026 > SPIWP:0xee
+09:42:23.029 > mode:DIO, clock div:1
+09:42:23.029 > load:0x3fce3808,len:0x44c
+09:42:23.032 > load:0x403c9700,len:0xbd8
+09:42:23.034 > load:0x403cc700,len:0x2a80
+09:42:23.037 > entry 0x403c98d0
+09:42:23.340 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:42:23.460 > NerdMiner v2 starting......
+09:42:23.461 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:42:23.468 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:23.474 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:42:23.479 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:23.485 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:23.500 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:25.944 > ESP-ROM:esp32s3-20210327
+09:42:25.945 > Build:Mar 27 2021
+09:42:25.947 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:42:25.953 > Saved PC:0x4037e0f5
+09:42:25.953 > SPIWP:0xee
+09:42:25.955 > mode:DIO, clock div:1
+09:42:25.955 > load:0x3fce3808,len:0x44c
+09:42:25.958 > load:0x403c9700,len:0xbd8
+09:42:25.961 > load:0x403cc700,len:0x2a80
+09:42:25.964 > entry 0x403c98d0
+09:42:26.266 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:42:26.386 > NerdMiner v2 starting......
+09:42:26.387 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:42:26.395 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:26.400 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:42:26.406 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:26.411 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:26.426 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:28.871 > ESP-ROM:esp32s3-20210327
+09:42:28.872 > Build:Mar 27 2021
+09:42:28.874 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:42:28.879 > Saved PC:0x4037e0f5
+09:42:28.879 > SPIWP:0xee
+09:42:28.882 > mode:DIO, clock div:1
+09:42:28.882 > load:0x3fce3808,len:0x44c
+09:42:28.885 > load:0x403c9700,len:0xbd8
+09:42:28.887 > load:0x403cc700,len:0x2a80
+09:42:28.890 > entry 0x403c98d0
+09:42:29.193 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:42:29.313 > NerdMiner v2 starting......
+09:42:29.313 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:42:29.321 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:29.327 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:42:29.332 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:29.338 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:29.353 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:31.798 > ESP-ROM:esp32s3-20210327
+09:42:31.798 > Build:Mar 27 2021
+09:42:31.800 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:42:31.806 > Saved PC:0x4037e0f5
+09:42:31.806 > SPIWP:0xee
+09:42:31.809 > mode:DIO, clock div:1
+09:42:31.809 > load:0x3fce3808,len:0x44c
+09:42:31.811 > load:0x403c9700,len:0xbd8
+09:42:31.814 > load:0x403cc700,len:0x2a80
+09:42:31.817 > entry 0x403c98d0
+09:42:32.119 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:42:32.240 > NerdMiner v2 starting......
+09:42:32.240 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:42:32.248 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:32.253 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:42:32.259 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:32.265 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:32.279 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:34.724 > ESP-ROM:esp32s3-20210327
+09:42:34.724 > Build:Mar 27 2021
+09:42:34.727 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:42:34.732 > Saved PC:0x4037e0f5
+09:42:34.732 > SPIWP:0xee
+09:42:34.735 > mode:DIO, clock div:1
+09:42:34.735 > load:0x3fce3808,len:0x44c
+09:42:34.738 > load:0x403c9700,len:0xbd8
+09:42:34.740 > load:0x403cc700,len:0x2a80
+09:42:34.743 > entry 0x403c98d0
+09:42:35.046 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:42:35.166 > NerdMiner v2 starting......
+09:42:35.166 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:42:35.174 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:35.180 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:42:35.185 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:35.191 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:35.206 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:37.650 > ESP-ROM:esp32s3-20210327
+09:42:37.650 > Build:Mar 27 2021
+09:42:37.653 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:42:37.659 > Saved PC:0x4037e0f5
+09:42:37.659 > SPIWP:0xee
+09:42:37.662 > mode:DIO, clock div:1
+09:42:37.662 > load:0x3fce3808,len:0x44c
+09:42:37.664 > load:0x403c9700,len:0xbd8
+09:42:37.667 > load:0x403cc700,len:0x2a80
+09:42:37.670 > entry 0x403c98d0
+09:42:37.972 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:42:38.093 > NerdMiner v2 starting......
+09:42:38.093 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:42:38.101 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:38.107 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:42:38.112 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:38.118 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:38.133 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:40.577 > ESP-ROM:esp32s3-20210327
+09:42:40.577 > Build:Mar 27 2021
+09:42:40.580 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:42:40.585 > Saved PC:0x4037e0f5
+09:42:40.585 > SPIWP:0xee
+09:42:40.588 > mode:DIO, clock div:1
+09:42:40.588 > load:0x3fce3808,len:0x44c
+09:42:40.591 > load:0x403c9700,len:0xbd8
+09:42:40.594 > load:0x403cc700,len:0x2a80
+09:42:40.596 > entry 0x403c98d0
+09:42:40.899 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:42:41.020 > NerdMiner v2 starting......
+09:42:41.020 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:42:41.028 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:41.033 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:42:41.039 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:41.044 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:41.059 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:43.504 > ESP-ROM:esp32s3-20210327
+09:42:43.504 > Build:Mar 27 2021
+09:42:43.506 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:42:43.512 > Saved PC:0x4037e0f5
+09:42:43.512 > SPIWP:0xee
+09:42:43.515 > mode:DIO, clock div:1
+09:42:43.515 > load:0x3fce3808,len:0x44c
+09:42:43.517 > load:0x403c9700,len:0xbd8
+09:42:43.520 > load:0x403cc700,len:0x2a80
+09:42:43.523 > entry 0x403c98d0
+09:42:43.825 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:42:43.946 > NerdMiner v2 starting......
+09:42:43.946 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:42:43.954 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:43.960 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:42:43.965 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:43.971 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:43.986 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:46.430 > ESP-ROM:esp32s3-20210327
+09:42:46.431 > Build:Mar 27 2021
+09:42:46.433 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:42:46.438 > Saved PC:0x4037e0f5
+09:42:46.438 > SPIWP:0xee
+09:42:46.441 > mode:DIO, clock div:1
+09:42:46.441 > load:0x3fce3808,len:0x44c
+09:42:46.444 > load:0x403c9700,len:0xbd8
+09:42:46.447 > load:0x403cc700,len:0x2a80
+09:42:46.450 > entry 0x403c98d0
+09:42:46.752 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:42:46.873 > NerdMiner v2 starting......
+09:42:46.873 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:42:46.881 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:46.886 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:42:46.892 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:46.897 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:46.912 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:49.357 > ESP-ROM:esp32s3-20210327
+09:42:49.358 > Build:Mar 27 2021
+09:42:49.360 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:42:49.365 > Saved PC:0x4037e0f5
+09:42:49.365 > SPIWP:0xee
+09:42:49.368 > mode:DIO, clock div:1
+09:42:49.368 > load:0x3fce3808,len:0x44c
+09:42:49.371 > load:0x403c9700,len:0xbd8
+09:42:49.373 > load:0x403cc700,len:0x2a80
+09:42:49.376 > entry 0x403c98d0
+09:42:49.679 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:42:49.799 > NerdMiner v2 starting......
+09:42:49.800 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:42:49.807 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:49.813 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:42:49.818 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:49.824 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:49.839 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:52.284 > ESP-ROM:esp32s3-20210327
+09:42:52.284 > Build:Mar 27 2021
+09:42:52.286 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:42:52.292 > Saved PC:0x4037e0f5
+09:42:52.292 > SPIWP:0xee
+09:42:52.294 > mode:DIO, clock div:1
+09:42:52.294 > load:0x3fce3808,len:0x44c
+09:42:52.297 > load:0x403c9700,len:0xbd8
+09:42:52.300 > load:0x403cc700,len:0x2a80
+09:42:52.303 > entry 0x403c98d0
+09:42:52.605 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:42:52.726 > NerdMiner v2 starting......
+09:42:52.726 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:42:52.734 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:52.739 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:42:52.745 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:52.750 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:52.765 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:55.210 > ESP-ROM:esp32s3-20210327
+09:42:55.210 > Build:Mar 27 2021
+09:42:55.213 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:42:55.218 > Saved PC:0x4037e0f5
+09:42:55.218 > SPIWP:0xee
+09:42:55.221 > mode:DIO, clock div:1
+09:42:55.221 > load:0x3fce3808,len:0x44c
+09:42:55.224 > load:0x403c9700,len:0xbd8
+09:42:55.226 > load:0x403cc700,len:0x2a80
+09:42:55.229 > entry 0x403c98d0
+09:42:55.531 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:42:55.652 > NerdMiner v2 starting......
+09:42:55.652 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:42:55.660 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:55.666 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:42:55.671 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:55.677 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:55.692 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:58.137 > ESP-ROM:esp32s3-20210327
+09:42:58.137 > Build:Mar 27 2021
+09:42:58.139 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:42:58.145 > Saved PC:0x4037e0f5
+09:42:58.145 > SPIWP:0xee
+09:42:58.147 > mode:DIO, clock div:1
+09:42:58.147 > load:0x3fce3808,len:0x44c
+09:42:58.150 > load:0x403c9700,len:0xbd8
+09:42:58.153 > load:0x403cc700,len:0x2a80
+09:42:58.156 > entry 0x403c98d0
+09:42:58.458 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:42:58.579 > NerdMiner v2 starting......
+09:42:58.579 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:42:58.587 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:58.592 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:42:58.598 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:58.604 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:42:58.619 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:01.063 > ESP-ROM:esp32s3-20210327
+09:43:01.064 > Build:Mar 27 2021
+09:43:01.066 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:43:01.071 > Saved PC:0x4037e0f5
+09:43:01.071 > SPIWP:0xee
+09:43:01.074 > mode:DIO, clock div:1
+09:43:01.074 > load:0x3fce3808,len:0x44c
+09:43:01.077 > load:0x403c9700,len:0xbd8
+09:43:01.080 > load:0x403cc700,len:0x2a80
+09:43:01.082 > entry 0x403c98d0
+09:43:01.385 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:43:01.505 > NerdMiner v2 starting......
+09:43:01.505 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:43:01.514 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:01.519 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:43:01.525 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:01.530 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:01.545 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:03.990 > ESP-ROM:esp32s3-20210327
+09:43:03.990 > Build:Mar 27 2021
+09:43:03.992 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:43:03.998 > Saved PC:0x4037e0f5
+09:43:03.998 > SPIWP:0xee
+09:43:04.001 > mode:DIO, clock div:1
+09:43:04.001 > load:0x3fce3808,len:0x44c
+09:43:04.003 > load:0x403c9700,len:0xbd8
+09:43:04.006 > load:0x403cc700,len:0x2a80
+09:43:04.009 > entry 0x403c98d0
+09:43:04.311 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:43:04.432 > NerdMiner v2 starting......
+09:43:04.432 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:43:04.440 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:04.445 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:43:04.451 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:04.457 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:04.472 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:06.916 > ESP-ROM:esp32s3-20210327
+09:43:06.917 > Build:Mar 27 2021
+09:43:06.919 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:43:06.925 > Saved PC:0x4037e0f5
+09:43:06.925 > SPIWP:0xee
+09:43:06.927 > mode:DIO, clock div:1
+09:43:06.927 > load:0x3fce3808,len:0x44c
+09:43:06.930 > load:0x403c9700,len:0xbd8
+09:43:06.933 > load:0x403cc700,len:0x2a80
+09:43:06.936 > entry 0x403c98d0
+09:43:07.238 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:43:07.358 > NerdMiner v2 starting......
+09:43:07.358 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:43:07.366 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:07.372 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:43:07.378 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:07.383 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:07.398 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:09.843 > ESP-ROM:esp32s3-20210327
+09:43:09.843 > Build:Mar 27 2021
+09:43:09.846 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:43:09.851 > Saved PC:0x4037e0f5
+09:43:09.851 > SPIWP:0xee
+09:43:09.854 > mode:DIO, clock div:1
+09:43:09.854 > load:0x3fce3808,len:0x44c
+09:43:09.857 > load:0x403c9700,len:0xbd8
+09:43:09.859 > load:0x403cc700,len:0x2a80
+09:43:09.862 > entry 0x403c98d0
+09:43:10.165 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:43:10.285 > NerdMiner v2 starting......
+09:43:10.286 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:43:10.293 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:10.299 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:43:10.304 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:10.310 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:10.325 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:12.770 > ESP-ROM:esp32s3-20210327
+09:43:12.770 > Build:Mar 27 2021
+09:43:12.772 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:43:12.778 > Saved PC:0x4037e0f5
+09:43:12.778 > SPIWP:0xee
+09:43:12.780 > mode:DIO, clock div:1
+09:43:12.780 > load:0x3fce3808,len:0x44c
+09:43:12.783 > load:0x403c9700,len:0xbd8
+09:43:12.786 > load:0x403cc700,len:0x2a80
+09:43:12.789 > entry 0x403c98d0
+09:43:13.091 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:43:13.212 > NerdMiner v2 starting......
+09:43:13.212 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:43:13.220 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:13.225 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:43:13.231 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:13.236 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:13.251 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:15.696 > ESP-ROM:esp32s3-20210327
+09:43:15.696 > Build:Mar 27 2021
+09:43:15.699 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:43:15.704 > Saved PC:0x4037e0f5
+09:43:15.704 > SPIWP:0xee
+09:43:15.707 > mode:DIO, clock div:1
+09:43:15.707 > load:0x3fce3808,len:0x44c
+09:43:15.710 > load:0x403c9700,len:0xbd8
+09:43:15.712 > load:0x403cc700,len:0x2a80
+09:43:15.715 > entry 0x403c98d0
+09:43:16.017 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:43:16.138 > NerdMiner v2 starting......
+09:43:16.138 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:43:16.146 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:16.152 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:43:16.157 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:16.163 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:16.178 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:18.623 > ESP-ROM:esp32s3-20210327
+09:43:18.624 > Build:Mar 27 2021
+09:43:18.625 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:43:18.631 > Saved PC:0x4037e0f5
+09:43:18.631 > SPIWP:0xee
+09:43:18.633 > mode:DIO, clock div:1
+09:43:18.633 > load:0x3fce3808,len:0x44c
+09:43:18.636 > load:0x403c9700,len:0xbd8
+09:43:18.639 > load:0x403cc700,len:0x2a80
+09:43:18.642 > entry 0x403c98d0
+09:43:18.944 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:43:19.064 > NerdMiner v2 starting......
+09:43:19.065 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:43:19.073 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:19.078 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:43:19.084 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:19.089 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:19.104 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:21.549 > ESP-ROM:esp32s3-20210327
+09:43:21.549 > Build:Mar 27 2021
+09:43:21.552 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:43:21.557 > Saved PC:0x4037e0f5
+09:43:21.557 > SPIWP:0xee
+09:43:21.560 > mode:DIO, clock div:1
+09:43:21.560 > load:0x3fce3808,len:0x44c
+09:43:21.563 > load:0x403c9700,len:0xbd8
+09:43:21.566 > load:0x403cc700,len:0x2a80
+09:43:21.568 > entry 0x403c98d0
+09:43:21.871 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:43:21.991 > NerdMiner v2 starting......
+09:43:21.992 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:43:21.999 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:22.005 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:43:22.011 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:22.016 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:22.031 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:24.476 > ESP-ROM:esp32s3-20210327
+09:43:24.476 > Build:Mar 27 2021
+09:43:24.478 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:43:24.484 > Saved PC:0x4037e0f5
+09:43:24.484 > SPIWP:0xee
+09:43:24.487 > mode:DIO, clock div:1
+09:43:24.487 > load:0x3fce3808,len:0x44c
+09:43:24.489 > load:0x403c9700,len:0xbd8
+09:43:24.492 > load:0x403cc700,len:0x2a80
+09:43:24.495 > entry 0x403c98d0
+09:43:24.797 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:43:24.918 > NerdMiner v2 starting......
+09:43:24.918 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:43:24.926 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:24.932 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:43:24.937 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:24.943 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:24.957 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:27.402 > ESP-ROM:esp32s3-20210327
+09:43:27.402 > Build:Mar 27 2021
+09:43:27.405 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:43:27.410 > Saved PC:0x4037e0f5
+09:43:27.410 > SPIWP:0xee
+09:43:27.413 > mode:DIO, clock div:1
+09:43:27.413 > load:0x3fce3808,len:0x44c
+09:43:27.416 > load:0x403c9700,len:0xbd8
+09:43:27.419 > load:0x403cc700,len:0x2a80
+09:43:27.421 > entry 0x403c98d0
+09:43:27.723 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:43:27.844 > NerdMiner v2 starting......
+09:43:27.844 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:43:27.852 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:27.858 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:43:27.863 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:27.869 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:27.884 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:30.329 > ESP-ROM:esp32s3-20210327
+09:43:30.329 > Build:Mar 27 2021
+09:43:30.331 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:43:30.337 > Saved PC:0x4037e0f5
+09:43:30.337 > SPIWP:0xee
+09:43:30.340 > mode:DIO, clock div:1
+09:43:30.340 > load:0x3fce3808,len:0x44c
+09:43:30.342 > load:0x403c9700,len:0xbd8
+09:43:30.345 > load:0x403cc700,len:0x2a80
+09:43:30.348 > entry 0x403c98d0
+09:43:30.650 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:43:30.771 > NerdMiner v2 starting......
+09:43:30.771 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:43:30.779 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:30.785 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:43:30.790 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:30.796 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:30.811 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:33.255 > ESP-ROM:esp32s3-20210327
+09:43:33.255 > Build:Mar 27 2021
+09:43:33.258 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:43:33.263 > Saved PC:0x4037e0f5
+09:43:33.263 > SPIWP:0xee
+09:43:33.266 > mode:DIO, clock div:1
+09:43:33.266 > load:0x3fce3808,len:0x44c
+09:43:33.269 > load:0x403c9700,len:0xbd8
+09:43:33.274 > load:0x403cc700,len:0x2a80
+09:43:33.275 > entry 0x403c98d0
+09:43:33.577 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:43:33.697 > NerdMiner v2 starting......
+09:43:33.698 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:43:33.706 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:33.711 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:43:33.717 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:33.722 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:33.737 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:36.182 > ESP-ROM:esp32s3-20210327
+09:43:36.182 > Build:Mar 27 2021
+09:43:36.184 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:43:36.190 > Saved PC:0x4037e0f5
+09:43:36.190 > SPIWP:0xee
+09:43:36.193 > mode:DIO, clock div:1
+09:43:36.193 > load:0x3fce3808,len:0x44c
+09:43:36.195 > load:0x403c9700,len:0xbd8
+09:43:36.198 > load:0x403cc700,len:0x2a80
+09:43:36.201 > entry 0x403c98d0
+09:43:36.503 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:43:36.624 > NerdMiner v2 starting......
+09:43:36.624 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:43:36.632 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:36.638 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:43:36.643 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:36.649 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:36.664 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:39.108 > ESP-ROM:esp32s3-20210327
+09:43:39.109 > Build:Mar 27 2021
+09:43:39.111 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:43:39.117 > Saved PC:0x4037e0f5
+09:43:39.117 > SPIWP:0xee
+09:43:39.119 > mode:DIO, clock div:1
+09:43:39.119 > load:0x3fce3808,len:0x44c
+09:43:39.122 > load:0x403c9700,len:0xbd8
+09:43:39.125 > load:0x403cc700,len:0x2a80
+09:43:39.128 > entry 0x403c98d0
+09:43:39.430 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:43:39.551 > NerdMiner v2 starting......
+09:43:39.551 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:43:39.559 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:39.564 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:43:39.570 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:39.575 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:39.590 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:42.035 > ESP-ROM:esp32s3-20210327
+09:43:42.036 > Build:Mar 27 2021
+09:43:42.038 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:43:42.043 > Saved PC:0x4037e0f5
+09:43:42.043 > SPIWP:0xee
+09:43:42.046 > mode:DIO, clock div:1
+09:43:42.046 > load:0x3fce3808,len:0x44c
+09:43:42.049 > load:0x403c9700,len:0xbd8
+09:43:42.052 > load:0x403cc700,len:0x2a80
+09:43:42.054 > entry 0x403c98d0
+09:43:42.357 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:43:42.477 > NerdMiner v2 starting......
+09:43:42.477 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:43:42.485 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:42.491 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:43:42.496 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:42.502 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:42.517 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:44.962 > ESP-ROM:esp32s3-20210327
+09:43:44.962 > Build:Mar 27 2021
+09:43:44.964 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:43:44.970 > Saved PC:0x4037e0f5
+09:43:44.970 > SPIWP:0xee
+09:43:44.972 > mode:DIO, clock div:1
+09:43:44.972 > load:0x3fce3808,len:0x44c
+09:43:44.975 > load:0x403c9700,len:0xbd8
+09:43:44.978 > load:0x403cc700,len:0x2a80
+09:43:44.981 > entry 0x403c98d0
+09:43:45.283 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:43:45.403 > NerdMiner v2 starting......
+09:43:45.404 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:43:45.412 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:45.417 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:43:45.423 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:45.428 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:45.443 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:47.888 > ESP-ROM:esp32s3-20210327
+09:43:47.889 > Build:Mar 27 2021
+09:43:47.891 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:43:47.896 > Saved PC:0x4037e0f5
+09:43:47.896 > SPIWP:0xee
+09:43:47.899 > mode:DIO, clock div:1
+09:43:47.899 > load:0x3fce3808,len:0x44c
+09:43:47.902 > load:0x403c9700,len:0xbd8
+09:43:47.905 > load:0x403cc700,len:0x2a80
+09:43:47.908 > entry 0x403c98d0
+09:43:48.209 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:43:48.330 > NerdMiner v2 starting......
+09:43:48.330 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:43:48.338 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:48.344 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:43:48.349 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:48.355 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:48.370 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:50.814 > ESP-ROM:esp32s3-20210327
+09:43:50.815 > Build:Mar 27 2021
+09:43:50.817 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:43:50.823 > Saved PC:0x4037e0f5
+09:43:50.823 > SPIWP:0xee
+09:43:50.826 > mode:DIO, clock div:1
+09:43:50.826 > load:0x3fce3808,len:0x44c
+09:43:50.828 > load:0x403c9700,len:0xbd8
+09:43:50.831 > load:0x403cc700,len:0x2a80
+09:43:50.834 > entry 0x403c98d0
+09:43:51.136 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:43:51.257 > NerdMiner v2 starting......
+09:43:51.257 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:43:51.265 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:51.270 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:43:51.276 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:51.282 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:51.296 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:53.741 > ESP-ROM:esp32s3-20210327
+09:43:53.742 > Build:Mar 27 2021
+09:43:53.744 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:43:53.749 > Saved PC:0x4037e0f5
+09:43:53.749 > SPIWP:0xee
+09:43:53.752 > mode:DIO, clock div:1
+09:43:53.752 > load:0x3fce3808,len:0x44c
+09:43:53.755 > load:0x403c9700,len:0xbd8
+09:43:53.758 > load:0x403cc700,len:0x2a80
+09:43:53.761 > entry 0x403c98d0
+09:43:54.062 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:43:54.183 > NerdMiner v2 starting......
+09:43:54.184 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:43:54.192 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:54.197 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:43:54.203 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:54.208 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:54.223 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:56.668 > ESP-ROM:esp32s3-20210327
+09:43:56.668 > Build:Mar 27 2021
+09:43:56.670 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:43:56.676 > Saved PC:0x4037e0f5
+09:43:56.676 > SPIWP:0xee
+09:43:56.679 > mode:DIO, clock div:1
+09:43:56.679 > load:0x3fce3808,len:0x44c
+09:43:56.681 > load:0x403c9700,len:0xbd8
+09:43:56.684 > load:0x403cc700,len:0x2a80
+09:43:56.687 > entry 0x403c98d0
+09:43:56.989 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:43:57.110 > NerdMiner v2 starting......
+09:43:57.110 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:43:57.118 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:57.123 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:43:57.129 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:57.135 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:57.150 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:43:59.594 > ESP-ROM:esp32s3-20210327
+09:43:59.595 > Build:Mar 27 2021
+09:43:59.597 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:43:59.602 > Saved PC:0x4037e0f5
+09:43:59.602 > SPIWP:0xee
+09:43:59.605 > mode:DIO, clock div:1
+09:43:59.605 > load:0x3fce3808,len:0x44c
+09:43:59.608 > load:0x403c9700,len:0xbd8
+09:43:59.611 > load:0x403cc700,len:0x2a80
+09:43:59.613 > entry 0x403c98d0
+09:43:59.916 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:44:00.036 > NerdMiner v2 starting......
+09:44:00.036 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:44:00.045 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:44:00.050 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:44:00.056 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:44:00.061 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:44:00.076 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:44:02.521 > ESP-ROM:esp32s3-20210327
+09:44:02.521 > Build:Mar 27 2021
+09:44:02.523 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+09:44:02.529 > Saved PC:0x4037e0f5
+09:44:02.529 > SPIWP:0xee
+09:44:02.532 > mode:DIO, clock div:1
+09:44:02.532 > load:0x3fce3808,len:0x44c
+09:44:02.534 > load:0x403c9700,len:0xbd8
+09:44:02.537 > load:0x403cc700,len:0x2a80
+09:44:02.540 > entry 0x403c98d0
+09:44:02.842 > E (327) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:44:02.963 > NerdMiner v2 starting......
+09:44:02.963 > [   448][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:44:02.971 > E (121) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:44:02.977 > [   451][E][esp32-hal-gpio.c:102] __pinMode(): Invalid pin selected
+09:44:02.982 > E (129) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:44:02.988 > E (139) gpio: gpio_set_level(227): GPIO output gpio_num error
+09:44:03.003 > E (160) gpio: gpio_set_level(227): GPIO output gpio_num error

@@ -1,0 +1,8 @@
+21:51:44.311 > N)(POWERON),boot:0x8 (SPI_FAST_FLASH_BOOT)
+21:51:44.311 > SPIWP:0xee
+21:51:44.311 > mode:DIO, clock div:1
+21:51:44.311 > load:0x3fce3808,len:0x44c
+21:51:44.311 > load:0x403c9700,len:0xbd8
+21:51:44.311 > load:0x403cc700,len:0x2a80
+21:51:44.311 > entry 0x403c98d0
+21:51:44.311 > E (356) esp_core_dump_flash: Incorrect size of core dump image: 0

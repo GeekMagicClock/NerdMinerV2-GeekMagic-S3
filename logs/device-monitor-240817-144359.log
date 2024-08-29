@@ -1,0 +1,61 @@
+14:44:00.790 > Client not connected, trying to connect...
+14:44:00.790 > [WORKER] ==> Mining subscribe
+14:44:00.790 >   Sending  : {"id": 1, "method": "mining.subscribe", "params": ["NerdMinerV2/V1.6.3"]}
+14:44:00.790 > 
+14:44:01.363 > Client not connected, trying to connect...
+14:44:01.391 > [WORKER] ==> Mining subscribe
+14:44:01.391 >   Sending  : {"id": 1, "method": "mining.subscribe", "params": ["NerdMinerV2/V1.6.3"]}
+14:44:01.400 > 
+14:44:01.731 > TimeClient NTPupdateTime >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+14:44:01.741 > btc price:
+14:44:01.791 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>true / subscribed>false / wificonnected>true
+14:44:02.593 > Client not connected, trying to connect...
+14:44:02.599 > [WORKER] ==> Mining subscribe
+14:44:02.600 >   Sending  : {"id": 1, "method": "mining.subscribe", "params": ["NerdMinerV2/V1.6.3"]}
+14:44:02.609 > 
+14:44:03.802 > Client not connected, trying to connect...
+14:44:03.806 > [WORKER] ==> Mining subscribe
+14:44:03.809 >   Sending  : {"id": 1, "method": "mining.subscribe", "params": ["NerdMinerV2/V1.6.3"]}
+14:44:03.816 > 
+14:44:03.824 > TimeClient NTPupdateTime >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+14:44:03.834 > btc price:
+14:44:03.884 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>true / subscribed>false / wificonnected>true
+14:44:04.329 > E (917059) task_wdt: Task watchdog got triggered. The following tasks did not reset the watchdog in time:
+14:44:04.337 > E (917059) task_wdt:  - Miner0 (CPU 0/1)
+14:44:04.340 > E (917059) task_wdt: Tasks currently running:
+14:44:04.345 > E (917059) task_wdt: CPU 0: IDLE
+14:44:04.348 > E (917059) task_wdt: CPU 1: Stratum
+14:44:04.351 > E (917059) task_wdt: Aborting.
+14:44:04.354 > 
+14:44:04.394 > abort() was called at PC 0x4203cc48 on core 0
+14:44:04.396 > 
+14:44:04.396 > 
+14:44:04.396 > Backtrace: 0x4037e146:0x3fc9d360 0x40383f4d:0x3fc9d380 0x40389cd5:0x3fc9d3a0 0x4203cc48:0x3fc9d420 0x4037f825:0x3fc9d440 0x420cf943:0x3fcf4870 0x4203d4ad:0x3fcf4890 0x403853b0:0x3fcf48b0
+14:44:04.538 > 
+14:44:04.538 >   #0  0x4037e146:0x3fc9d360 in panic_abort at /Users/ficeto/Desktop/ESP32/ESP32S2/esp-idf-public/components/esp_system/panic.c:408
+14:44:04.538 >   #1  0x40383f4d:0x3fc9d380 in esp_system_abort at /Users/ficeto/Desktop/ESP32/ESP32S2/esp-idf-public/components/esp_system/esp_system.c:137
+14:44:04.538 >   #2  0x40389cd5:0x3fc9d3a0 in abort at /Users/ficeto/Desktop/ESP32/ESP32S2/esp-idf-public/components/newlib/abort.c:46
+14:44:04.538 >   #3  0x4203cc48:0x3fc9d420 in task_wdt_isr at /Users/ficeto/Desktop/ESP32/ESP32S2/esp-idf-public/components/esp_system/task_wdt.c:176 (discriminator 3)
+14:44:04.538 >   #4  0x4037f825:0x3fc9d440 in _xt_lowint1 at /Users/ficeto/Desktop/ESP32/ESP32S2/esp-idf-public/components/freertos/port/xtensa/xtensa_vectors.S:1114
+14:44:04.538 >   #5  0x420cf943:0x3fcf4870 in cpu_ll_waiti at /Users/ficeto/Desktop/ESP32/ESP32S2/esp-idf-public/components/hal/esp32s3/include/hal/cpu_ll.h:182
+14:44:04.538 >       (inlined by) esp_pm_impl_waiti at /Users/ficeto/Desktop/ESP32/ESP32S2/esp-idf-public/components/esp_pm/pm_impl.c:847
+14:44:04.538 >   #6  0x4203d4ad:0x3fcf4890 in esp_vApplicationIdleHook at /Users/ficeto/Desktop/ESP32/ESP32S2/esp-idf-public/components/esp_system/freertos_hooks.c:63
+14:44:04.538 >   #7  0x403853b0:0x3fcf48b0 in prvIdleTask at /Users/ficeto/Desktop/ESP32/ESP32S2/esp-idf-public/components/freertos/tasks.c:3987
+14:44:04.538 > 
+14:44:04.538 > 
+14:44:04.538 > 
+14:44:04.538 > 
+14:44:04.538 > ELF file SHA256: 9ae83fdab17a9cc3
+14:44:04.538 > 
+14:44:04.564 > Rebooting...
+14:44:04.571 > ESP-ROM:esp32s3-20210327
+14:44:04.571 > Build:Mar 27 2021
+14:44:04.574 > rst:0xc (RTC_SW_CPU_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+14:44:04.579 > Saved PC:0x4037dd54
+14:44:04.579 > SPIWP:0xee
+14:44:04.582 > mode:DIO, clock div:1
+14:44:04.582 > load:0x3fce3808,len:0x44c
+14:44:04.585 > load:0x403c9700,len:0xbd8
+14:44:04.588 > load:0x403cc700,len:0x2a80
+14:44:04.591 > entry 0x403c98d0
+14:44:05.063 > NerdMiner v2 starting......

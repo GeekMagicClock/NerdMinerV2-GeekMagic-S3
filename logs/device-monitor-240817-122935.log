@@ -1,0 +1,20 @@
+12:29:36.462 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>false / subscribed>false / wificonnected>true
+12:29:36.462 > >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+12:29:36.462 > btc price:
+12:29:36.471 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>false / subscribed>false / wificonnected>true
+12:29:37.480 > >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+12:29:37.483 > btc price:
+12:29:37.532 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>false / subscribed>false / wificonnected>true
+12:29:38.542 > >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+12:29:38.544 > btc price:
+12:29:38.594 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>false / subscribed>false / wificonnected>true
+12:29:39.092 > [WORKER] ==> Mining subscribe
+12:29:39.092 >   Sending  : {"id": 1, "method": "mining.subscribe", "params": ["NerdMinerV2/V1.6.3"]}
+12:29:39.101 > 
+12:29:39.604 > >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+12:29:39.606 > btc price:
+12:29:39.655 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>false / subscribed>false / wificonnected>true
+12:29:40.291 > Client not connected, trying to connect...
+12:29:40.664 > >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+12:29:40.667 > btc price:
+12:29:40.716 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>false / subscribed>false / wificonnected>true

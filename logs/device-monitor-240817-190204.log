@@ -1,0 +1,22 @@
+19:02:05.576 > >>> Completed 0 share(s), 288606 Khashes, avg. hashrate 77.29 KH/s
+19:02:05.576 > btc price:
+19:02:05.576 > 59082$
+19:02:06.513 > >>> Completed 0 share(s), 288687 Khashes, avg. hashrate 77.29 KH/s
+19:02:06.519 > btc price:
+19:02:06.519 > 59082$
+19:02:06.987 >   Sending  : {"id": 177, "method": "mining.submit", "params": ["34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo","24e2f0e","00000064","66c082ad","1b2d9636"]}
+19:02:06.998 >    - Current diff share: 0.002072834402
+19:02:07.001 >    - Current pool diff : 0.001000000000
+19:02:07.006 >    - TX SHARE: aa4b4950a1777e83bc98529a4b08153150f63390a068be0b5714816ce2010000
+19:02:07.561 > >>> Completed 0 share(s), 288768 Khashes, avg. hashrate 77.22 KH/s
+19:02:07.568 > btc price:
+19:02:07.568 > 59082$
+19:02:08.608 > >>> Completed 0 share(s), 288849 Khashes, avg. hashrate 77.29 KH/s
+19:02:08.615 > btc price:
+19:02:08.615 > 59082$
+19:02:09.656 > >>> Completed 0 share(s), 288931 Khashes, avg. hashrate 78.24 KH/s
+19:02:09.662 > btc price:
+19:02:09.662 > 59082$
+19:02:10.703 > >>> Completed 0 share(s), 289012 Khashes, avg. hashrate 77.29 KH/s
+19:02:10.710 > btc price:
+19:02:10.710 > 59082$

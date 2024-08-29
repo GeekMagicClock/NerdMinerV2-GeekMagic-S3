@@ -1,0 +1,31 @@
+17:46:16.826 > Run>false) - Client: connected>false / subscribed>false / wificonnected>true
+17:46:16.826 > >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+17:46:16.826 > btc price:
+17:46:16.826 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>false / subscribed>false / wificonnected>true
+17:46:17.835 > >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+17:46:17.837 > btc price:
+17:46:17.886 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>false / subscribed>false / wificonnected>true
+17:46:18.896 > >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+17:46:18.898 > btc price:
+17:46:18.948 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>false / subscribed>false / wificonnected>true
+17:46:19.011 > [WORKER] ==> Mining subscribe
+17:46:19.011 >   Sending  : {"id": 1, "method": "mining.subscribe", "params": ["NerdMinerV2/V1.6.3"]}
+17:46:19.021 > 
+17:46:19.957 > >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+17:46:19.959 > btc price:
+17:46:20.008 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>false / subscribed>false / wificonnected>true
+17:46:20.211 > Client not connected, trying to connect...
+17:46:20.568 > [WORKER] ==> Mining subscribe
+17:46:20.568 >   Sending  : {"id": 1, "method": "mining.subscribe", "params": ["NerdMinerV2/V1.6.3"]}
+17:46:20.577 > 
+17:46:20.877 >   Receiving: {"id":1,"error":null,"result":[[["mining.notify","49356201"]],"49356201",4]}
+17:46:20.882 >     sub_details: 49356201
+17:46:20.885 >     extranonce1: 49356201
+17:46:20.887 >     extranonce2_size: 4
+17:46:20.890 > [WORKER] ==> Autorize work
+17:46:20.893 >   Sending  : {"params": ["34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo", "x"], "id": 2, "method": "mining.authorize"}
+17:46:20.902 > 
+17:46:21.017 > >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+17:46:21.020 > btc price:
+17:46:21.069 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>true / subscribed>false / wificonnected>true
+17:46:21.098 >   Sending  : {"id": 3, "method": "mining.suggest_difficulty", "params": [0.0001]}

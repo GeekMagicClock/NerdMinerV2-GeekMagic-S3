@@ -1,0 +1,39 @@
+17:47:34.757 > SPIFS: Mounting File System...
+17:47:34.814 > SPIFS: Mounted
+17:47:34.815 > SPIFS: Loading config file
+17:47:34.817 > {
+17:47:34.817 >   "poolString": "public-pool.io",
+17:47:34.820 >   "portNumber": 21496,
+17:47:34.823 >   "poolPassword": "x",
+17:47:34.825 >   "btcString": "34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo",
+17:47:34.828 >   "gmtZone": 2,
+17:47:34.831 >   "saveStatsToNVS": false
+17:47:34.834 > }
+17:47:34.834 > AllDone: 
+17:47:34.834 > *wm:AutoConnect 
+17:47:34.837 > *wm:Connecting to SAVED AP: 1024
+17:47:36.639 > *wm:AutoConnect: SUCCESS 
+17:47:36.639 > *wm:STA IP Address: 192.168.3.36
+17:47:36.641 > 
+17:47:36.641 > WiFi connected
+17:47:36.644 > IP address: 192.168.3.36
+17:47:36.647 > PoolString: public-pool.io
+17:47:36.649 > portNumber: 21496
+17:47:36.649 > poolPassword: x
+17:47:36.652 > btcString: 34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo
+17:47:36.655 > TimeZone fromUTC: 2
+17:47:36.658 > 
+17:47:36.658 > Initiating tasks...
+17:47:36.660 > [MONITOR] started
+17:47:36.660 > 
+17:47:36.660 > 
+17:47:36.660 > [WORKER] Started. Running (Stratum) on core 1
+17:47:36.666 > Client not connected, trying to connect...
+17:47:36.669 > [MINER]  0  Started runMiner Task!
+17:47:36.672 > [MINER]  1  Started runMiner Task!
+17:47:36.674 > TimeClient setup done
+17:47:36.677 > CONNECTED - Current ip: 192.168.3.36
+17:47:36.756 > Resolved DNS and save ip (first time) got: 68.235.52.36
+17:47:37.269 > TimeClient NTPupdateTime >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+17:47:37.279 > btc price:
+17:47:37.328 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>false / subscribed>false / wificonnected>true

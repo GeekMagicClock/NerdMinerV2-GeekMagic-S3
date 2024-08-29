@@ -1,0 +1,28 @@
+18:08:06.230 >   Sending  : {"id": 37, "method": "mining.submit", "params": ["34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo","24cc67c","00000011","66c0767d","1a9e9ed8"]}
+18:08:06.230 > >>> Completed 0 share(s), 39551 Khashes, avg. hashrate 76.92 KH/s
+18:08:06.230 > btc price:
+18:08:06.230 >    - Current diff share: 0.001452046683
+18:08:06.230 >    - Current pool diff : 0.001000000000
+18:08:06.230 >    - TX SHARE: 999743ff00f709a60d404e100a1f8273f688094be701b48ca6732eacb0020000
+18:08:06.708 >   Received message from pool
+18:08:06.709 >   Receiving: {"id":37,"result":null,"error":[21,"Job not found",""]}
+18:08:06.716 > ERROR: 21 | reason: Job not found 
+18:08:06.719 >   Parsed JSON: error on JSON
+18:08:07.279 > >>> Completed 0 share(s), 39633 Khashes, avg. hashrate 76.49 KH/s
+18:08:07.285 > btc price:
+18:08:07.720 >   Received message from pool
+18:08:07.721 >   Receiving: {"id":null,"method":"mining.notify","params":["24ccd18","fc142eb114923b5fa388ba91af98b01be990519e000250fc0000000000000000","02000000010000000000000000000000000000000000000000000000000000000000000000ffffffff170352140d5075626c69632d506f6f6c","ffffffff02056ccd120000000017a91423e522dfc6656a8fda3d47b4fa53f7585ac758cd870000000000000000266a24aa21a9edbb934d60d1ad4bffd018d1053bcc63fcc693c424222995b818d0b52cb2360c8900000000",["d5262b56a3b4fef190d51db9f689b9b7b680bd4487b680c2b0f891abb72e3790","2ef2317c9000e16727e61ea39843dcf6dd82cd1eb708c99b3380a2c865e2721a","92ed19596ba2b431f8ffec573852e6a044dd0e89f6ba4047a694f2bae1fc2907","a72f5d91b8047d0308179e4847fade9d140738b44a2bdc1ba32e87d7e05745ce","f8e3ede24cccf56e767e0e05ab835fd5a282ab02ed557363c76e70b14de47513","9e794f9f7bd08da449d01ce767ed6f4c0b9b0466b1672cf05704709740589ca9","c97d4a60101a70323dd684d0263db53a32688de7f16017a5858d8d22b4a85195","d9e5d5e3643aa460cd5dac7f22a8db83e695e2f8795cd5fef098d5b5f131c7f4","786793e0bb40da23540df7de851b8f24e2f9042f69394a905b8dd805d5dec66c","d161a6b36ae46457e6b09755838d90295a9372e207afd872d725e6fd447912a5","46d51ccfe269cdd15c578f0b7985bcbf2bfc9a46d992e6c4013552632eaab97e","bb134e4b0370830ba5dec9d6ca12a3b2e36da0618236f7acbf1526d02f892f7c","a62364a05395b4a11f6652a269bbcb28ffea10e3bbed0d18fe6604866ba7e58c"],"20000000","17033d76","66c07685",true]}
+18:08:07.840 >     Parsing Method [MINING NOTIFY]
+18:08:07.846 > MINER WORK ABORTED >> waiting new job
+18:08:07.849 > >>> Finished job waiting new data from pool    target: 000000000000000000033d760000000000000000000000000000000000000000>>> Resetting watchdog timerMINER WORK ABORTED >> waiting new job
+18:08:07.862 > 
+18:08:07.862 > >>> Finished job waiting new data from pool>>> Resetting watchdog timer    coinbase: 02000000010000000000000000000000000000000000000000000000000000000000000000ffffffff170352140d5075626c69632d506f6f6c0b29b2ff00000012ffffffff02056ccd120000000017a91423e522dfc6656a8fda3d47b4fa53f7585ac758cd870000000000000000266a24aa21a9edbb934d60d1ad4bffd018d1053bcc63fcc693c424222995b818d0b52cb2360c8900000000
+18:08:07.895 >     merkle sha         : 0a7c127addf451b88e7839c8fc696b72b4b1a14207a03d2d351c546b909abd5b
+18:08:07.960 > >>> STARTING TO HASH NONCES
+18:08:07.971 > >>> STARTING TO HASH NONCES
+18:08:08.345 > >>> Completed 0 share(s), 39705 Khashes, avg. hashrate 67.54 KH/s
+18:08:08.351 > btc price:
+18:08:09.410 > >>> Completed 0 share(s), 39787 Khashes, avg. hashrate 77.00 KH/s
+18:08:09.416 > btc price:
+18:08:10.475 > >>> Completed 0 share(s), 39869 Khashes, avg. hashrate 77.00 KH/s
+18:08:10.481 > btc price:

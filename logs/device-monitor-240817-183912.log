@@ -1,0 +1,664 @@
+18:39:13.943 > >>> Completed 0 share(s), 183018 Khashes, avg. hashrate 77.14 KH/s
+18:39:13.943 > btc price:
+18:39:13.943 > 59082$
+18:39:14.186 > >>> Completed 0 share(s), 183100 Khashes, avg. hashrate 78.32 KH/s
+18:39:14.193 > btc price:
+18:39:14.193 > 59082$
+18:39:15.235 > >>> Completed 0 share(s), 183181 Khashes, avg. hashrate 77.22 KH/s
+18:39:15.242 > btc price:
+18:39:15.242 > 59082$
+18:39:16.284 > >>> Completed 0 share(s), 183262 Khashes, avg. hashrate 77.29 KH/s
+18:39:16.290 > btc price:
+18:39:16.290 > 59082$
+18:39:17.331 > >>> Completed 0 share(s), 183344 Khashes, avg. hashrate 78.24 KH/s
+18:39:17.338 > btc price:
+18:39:17.338 > 59082$
+18:39:18.380 > >>> Completed 0 share(s), 183425 Khashes, avg. hashrate 77.22 KH/s
+18:39:18.387 > btc price:
+18:39:18.387 > 59082$
+18:39:19.428 > >>> Completed 0 share(s), 183506 Khashes, avg. hashrate 77.29 KH/s
+18:39:19.435 > btc price:
+18:39:19.435 > 59082$
+18:39:20.476 > >>> Completed 0 share(s), 183588 Khashes, avg. hashrate 78.24 KH/s
+18:39:20.483 > btc price:
+18:39:20.483 > 59082$
+18:39:21.526 > >>> Completed 0 share(s), 183669 Khashes, avg. hashrate 77.22 KH/s
+18:39:21.532 > btc price:
+18:39:21.532 > 59082$
+18:39:33.210 > [3123231][E][ssl_client.cpp:37] _handle_error(): [start_ssl_client():273]: (-29312) SSL - The connection indicated an EOF
+18:39:33.218 > [3123232][E][WiFiClientSecure.cpp:144] connect(): start_ssl_client: -29312
+18:39:38.045 > >>> Completed 0 share(s), 183751 Khashes, avg. hashrate 78.17 KH/s
+18:39:38.052 > btc price:
+18:39:38.052 > 59082$
+18:39:38.584 >   Sending  : KeepAlive suggest_difficulty
+18:39:38.587 >   Sending  : {"id": 118, "method": "mining.suggest_difficulty", "params": [0.0001]}
+18:39:39.092 > >>> Completed 0 share(s), 185021 Khashes, avg. hashrate 76.89 KH/s
+18:39:39.099 > btc price:
+18:39:39.099 > 59082$
+18:39:40.142 > >>> Completed 0 share(s), 185102 Khashes, avg. hashrate 77.22 KH/s
+18:39:40.148 > btc price:
+18:39:40.148 > 59082$
+18:39:41.190 > >>> Completed 0 share(s), 185184 Khashes, avg. hashrate 78.24 KH/s
+18:39:41.196 > btc price:
+18:39:41.196 > 59082$
+18:39:42.239 > >>> Completed 0 share(s), 185265 Khashes, avg. hashrate 77.22 KH/s
+18:39:42.245 > btc price:
+18:39:42.245 > 59082$
+18:39:42.371 >   Sending  : {"id": 119, "method": "mining.submit", "params": ["34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo","24d9908","00000042","66c07dc1","1aca59de"]}
+18:39:42.382 >    - Current diff share: 0.001093046251
+18:39:42.385 >    - Current pool diff : 0.001000000000
+18:39:42.390 >    - TX SHARE: 6ecda762e22c3173301beac685ae09d49714e6f7789ece1a56ce43dc92030000
+18:39:42.778 >   Received message from pool
+18:39:42.778 >   Receiving: {"id":119,"error":null,"result":true}
+18:39:42.783 >   Parsed JSON: Success
+18:39:43.287 > >>> Completed 0 share(s), 185345 Khashes, avg. hashrate 76.34 KH/s
+18:39:43.293 > btc price:
+18:39:43.293 > 59082$
+18:39:44.334 > >>> Completed 0 share(s), 185427 Khashes, avg. hashrate 78.24 KH/s
+18:39:44.341 > btc price:
+18:39:44.341 > 59082$
+18:39:45.192 >   Sending  : {"id": 120, "method": "mining.submit", "params": ["34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo","24d9908","00000042","66c07dc1","1acdb096"]}
+18:39:45.203 >    - Current diff share: 0.002607395314
+18:39:45.206 >    - Current pool diff : 0.001000000000
+18:39:45.212 >    - TX SHARE: 45af6ad80512848d5fbd48440f2fe1d1a7a156211d8076c2fd80c6847f010000
+18:39:45.384 > >>> Completed 0 share(s), 185507 Khashes, avg. hashrate 76.26 KH/s
+18:39:45.390 > btc price:
+18:39:45.390 > 59082$
+18:39:46.433 > >>> Completed 0 share(s), 185589 Khashes, avg. hashrate 78.17 KH/s
+18:39:46.439 > btc price:
+18:39:46.439 > 59082$
+18:39:46.471 >   Received message from pool
+18:39:46.472 >   Receiving: {"id":120,"error":null,"result":true}
+18:39:46.477 >   Parsed JSON: Success
+18:39:47.481 > >>> Completed 0 share(s), 185670 Khashes, avg. hashrate 77.29 KH/s
+18:39:47.487 > btc price:
+18:39:47.487 > 59082$
+18:39:48.529 > >>> Completed 0 share(s), 185752 Khashes, avg. hashrate 78.24 KH/s
+18:39:48.535 > btc price:
+18:39:48.535 > 59082$
+18:39:49.792 > click
+18:39:49.793 > 
+18:39:50.992 > [3141013][E][HTTPClient.cpp:1301] handleHeaderResponse(): hhhh = _cfuvid=oPWNeEa54vIQkjRUOe.HTbp6UndCmJuHjzghiqTGrWM-1723891190910-0.0.1.1-604800000; path=/; domain=.blockchain.com; HttpOnly; Secure; SameSite=None
+18:39:51.010 > >>> Completed 0 share(s), 185833 Khashes, avg. hashrate 77.22 KH/s
+18:39:51.015 > btc price:
+18:39:51.018 > 59082$
+18:39:52.061 > >>> Completed 0 share(s), 186012 Khashes, avg. hashrate 72.09 KH/s
+18:39:52.066 > btc price:
+18:39:53.127 > >>> Completed 0 share(s), 186094 Khashes, avg. hashrate 76.92 KH/s
+18:39:53.132 > btc price:
+18:39:54.193 > >>> Completed 0 share(s), 186176 Khashes, avg. hashrate 76.92 KH/s
+18:39:54.198 > btc price:
+18:39:55.260 > >>> Completed 0 share(s), 186258 Khashes, avg. hashrate 76.85 KH/s
+18:39:55.265 > btc price:
+18:39:56.326 > >>> Completed 0 share(s), 186340 Khashes, avg. hashrate 76.92 KH/s
+18:39:56.331 > btc price:
+18:39:57.392 > >>> Completed 0 share(s), 186423 Khashes, avg. hashrate 77.86 KH/s
+18:39:57.397 > btc price:
+18:39:58.458 > >>> Completed 0 share(s), 186505 Khashes, avg. hashrate 76.92 KH/s
+18:39:58.464 > btc price:
+18:39:58.517 >   Received message from pool
+18:39:58.518 >   Receiving: {"id":null,"method":"mining.notify","params":["24d9fdb","b71f5d72137a4b35722b71348a522c4701558e62000302aa0000000000000000","02000000010000000000000000000000000000000000000000000000000000000000000000ffffffff170353140d5075626c69632d506f6f6c","ffffffff028bd5fc120000000017a91423e522dfc6656a8fda3d47b4fa53f7585ac758cd870000000000000000266a24aa21a9ed02b87371a3e400650dfae52534470ecd05e6882df59364cc15b0ab8a880414a900000000",["5f3e593f26c873eca1cc9e333a2c65faba88e130c1a164c221a96dd89e8ce948","0ad6d065afb5431ee1d57e27024c27353cabe4aec9612c1c3e514558b0b8a4a0","d0160e664f51df4da710fe77403f5ccef917dc46c06f757d049f9f8527b1477c","6e72bcb03a3cd678ef995beef4ed2cb0144b813327c672dbacdb71e9ee34c8b9","be0b85b08cf7f9b1a46ca3fb7e687010acd9218779eb7fb4e257bb4ec414f353","3518ffe350d2fc1db3994a3ee0e27951d8272cde1caebf61b26c34e7530f9cce","b5ac7690d7ccb1f52147294eac2dea481c3d3be9655786b277397b454c563b04","4dcd8aadc964e5e682d9ee2837c35dac776bab722a4540931faedbb5311c103b","f6d76d013984026a5443ddeffd427c299bfc097a0c47efb6286dac3c6028774b","600464244e2f0a7335cbb7b6a1105475b1c0908131e7ddfe4c7cc30f18e5e3e0","aa7fc69c2cdde2e89c58260dee9914a0a00f40ff78afdd0b791acec68bebdac5","54c8c5b165c0f0d03c0cebf903f497be220c5e6c11441ec1fcba91e889c0792b"],"20000000","17033d76","66c07dfd",false]}
+18:39:58.628 >     Parsing Method [MINING NOTIFY]
+18:39:58.634 > MINER WORK ABORTED >> waiting new job    target: 000000000000000000033d760000000000000000000000000000000000000000MINER WORK ABORTED >> waiting new job
+18:39:58.645 > 
+18:39:58.645 > >>> Finished job waiting new data from pool>>> Resetting watchdog timer
+18:39:58.653 > >>> Finished job waiting new data from pool    coinbase: 02000000010000000000000000000000000000000000000000000000000000000000000000ffffffff170353140d5075626c69632d506f6f6c0b29b2ff00000043ffffffff028bd5fc120000000017a91423e522dfc6656a8fda3d47b4fa53f7585ac758cd870000000000000000266a24aa21a9ed02b87371a3e400650dfae52534470ecd05e6882df59364cc15b0ab8a880414a900000000>>> Resetting watchdog timer
+18:39:58.687 >     merkle sha         : 9bc448193b234753afb0dbf6ae8387a490f90210b5888925e0ec840a866b6dec
+18:39:58.758 > >>> STARTING TO HASH NONCES
+18:39:58.798 > >>> STARTING TO HASH NONCES
+18:39:59.526 > >>> Completed 0 share(s), 186575 Khashes, avg. hashrate 65.54 KH/s
+18:39:59.531 > btc price:
+18:40:00.592 > >>> Completed 0 share(s), 186657 Khashes, avg. hashrate 76.92 KH/s
+18:40:00.597 > btc price:
+18:40:01.658 > >>> Completed 0 share(s), 186739 Khashes, avg. hashrate 76.92 KH/s
+18:40:01.664 > btc price:
+18:40:02.725 > >>> Completed 0 share(s), 186821 Khashes, avg. hashrate 76.85 KH/s
+18:40:02.731 > btc price:
+18:40:03.791 > >>> Completed 0 share(s), 186904 Khashes, avg. hashrate 77.86 KH/s
+18:40:03.796 > btc price:
+18:40:04.857 > >>> Completed 0 share(s), 186986 Khashes, avg. hashrate 76.92 KH/s
+18:40:04.863 > btc price:
+18:40:05.923 > >>> Completed 0 share(s), 187068 Khashes, avg. hashrate 76.92 KH/s
+18:40:05.929 > btc price:
+18:40:06.989 > >>> Completed 0 share(s), 187150 Khashes, avg. hashrate 76.92 KH/s
+18:40:06.995 > btc price:
+18:40:08.055 > >>> Completed 0 share(s), 187232 Khashes, avg. hashrate 76.92 KH/s
+18:40:08.061 > btc price:
+18:40:09.121 > >>> Completed 0 share(s), 187315 Khashes, avg. hashrate 77.86 KH/s
+18:40:09.127 > btc price:
+18:40:10.187 > >>> Completed 0 share(s), 187397 Khashes, avg. hashrate 76.92 KH/s
+18:40:10.192 > btc price:
+18:40:11.253 > >>> Completed 0 share(s), 187479 Khashes, avg. hashrate 76.92 KH/s
+18:40:11.259 > btc price:
+18:40:12.319 > >>> Completed 0 share(s), 187561 Khashes, avg. hashrate 76.92 KH/s
+18:40:12.325 > btc price:
+18:40:13.386 > >>> Completed 0 share(s), 187644 Khashes, avg. hashrate 77.79 KH/s
+18:40:13.392 > btc price:
+18:40:14.451 > >>> Completed 0 share(s), 187726 Khashes, avg. hashrate 77.00 KH/s
+18:40:14.457 > btc price:
+18:40:15.517 > >>> Completed 0 share(s), 187808 Khashes, avg. hashrate 76.92 KH/s
+18:40:15.523 > btc price:
+18:40:15.574 >   Sending  : KeepAlive suggest_difficulty
+18:40:15.576 >   Sending  : {"id": 121, "method": "mining.suggest_difficulty", "params": [0.0001]}
+18:40:16.583 > >>> Completed 0 share(s), 187890 Khashes, avg. hashrate 76.92 KH/s
+18:40:16.588 > btc price:
+18:40:17.650 > >>> Completed 0 share(s), 187972 Khashes, avg. hashrate 76.85 KH/s
+18:40:17.656 > btc price:
+18:40:18.716 > >>> Completed 0 share(s), 188054 Khashes, avg. hashrate 76.92 KH/s
+18:40:18.722 > btc price:
+18:40:19.782 > >>> Completed 0 share(s), 188136 Khashes, avg. hashrate 76.92 KH/s
+18:40:19.788 > btc price:
+18:40:20.850 > >>> Completed 0 share(s), 188219 Khashes, avg. hashrate 77.72 KH/s
+18:40:20.856 > btc price:
+18:40:21.915 > >>> Completed 0 share(s), 188301 Khashes, avg. hashrate 77.00 KH/s
+18:40:21.921 > btc price:
+18:40:22.981 > >>> Completed 0 share(s), 188383 Khashes, avg. hashrate 76.92 KH/s
+18:40:22.987 > btc price:
+18:40:24.047 > >>> Completed 0 share(s), 188465 Khashes, avg. hashrate 76.92 KH/s
+18:40:24.053 > btc price:
+18:40:25.113 > >>> Completed 0 share(s), 188547 Khashes, avg. hashrate 76.92 KH/s
+18:40:25.119 > btc price:
+18:40:25.373 >   Sending  : {"id": 122, "method": "mining.submit", "params": ["34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo","24d9fdb","00000043","66c07dfd","1ab6d913"]}
+18:40:25.383 >    - Current diff share: 0.001748449629
+18:40:25.386 >    - Current pool diff : 0.001000000000
+18:40:25.392 >    - TX SHARE: f0be7bd0d081d625775160e0a14790a57f9fb0b69a37c501558731ed3b020000
+18:40:26.179 > >>> Completed 0 share(s), 188628 Khashes, avg. hashrate 75.98 KH/s
+18:40:26.185 > btc price:
+18:40:26.236 >   Received message from pool
+18:40:26.236 >   Receiving: {"id":122,"error":null,"result":true}
+18:40:26.241 >   Parsed JSON: Success
+18:40:27.245 > >>> Completed 0 share(s), 188710 Khashes, avg. hashrate 76.92 KH/s
+18:40:27.251 > btc price:
+18:40:28.313 > >>> Completed 0 share(s), 188793 Khashes, avg. hashrate 77.72 KH/s
+18:40:28.319 > btc price:
+18:40:29.378 > >>> Completed 0 share(s), 188875 Khashes, avg. hashrate 77.00 KH/s
+18:40:29.384 > btc price:
+18:40:30.444 > >>> Completed 0 share(s), 188957 Khashes, avg. hashrate 76.92 KH/s
+18:40:30.450 > btc price:
+18:40:31.510 > >>> Completed 0 share(s), 189039 Khashes, avg. hashrate 76.92 KH/s
+18:40:31.516 > btc price:
+18:40:32.576 > >>> Completed 0 share(s), 189121 Khashes, avg. hashrate 76.92 KH/s
+18:40:32.582 > btc price:
+18:40:33.642 > >>> Completed 0 share(s), 189204 Khashes, avg. hashrate 77.86 KH/s
+18:40:33.648 > btc price:
+18:40:34.708 > >>> Completed 0 share(s), 189286 Khashes, avg. hashrate 76.92 KH/s
+18:40:34.714 > btc price:
+18:40:35.776 > >>> Completed 0 share(s), 189368 Khashes, avg. hashrate 76.78 KH/s
+18:40:35.782 > btc price:
+18:40:36.842 > >>> Completed 0 share(s), 189450 Khashes, avg. hashrate 76.92 KH/s
+18:40:36.848 > btc price:
+18:40:37.908 > >>> Completed 0 share(s), 189532 Khashes, avg. hashrate 76.92 KH/s
+18:40:37.914 > btc price:
+18:40:37.968 >   Received message from pool
+18:40:37.968 >   Receiving: {"id":null,"method":"mining.notify","params":["24da6b0","ebb12ec49afa1d61bfb32cc6c2cccd583e1f297b0000373e0000000000000000","02000000010000000000000000000000000000000000000000000000000000000000000000ffffffff170354140d5075626c69632d506f6f6c","ffffffff02592dcb120000000017a91423e522dfc6656a8fda3d47b4fa53f7585ac758cd870000000000000000266a24aa21a9ed43aee85b0e97e498299ef4636dae8c9cf5057eba6b45c8ca702d33d5504d1d4000000000",["e3cbd5f8e8843cb5e2167aec4daa524cb1e85ac5d80bf83fd980318c22f5b1ae","739bde7a4e095fcae46d047357f04f110d41f890e4f5de2593e1e3dd755075dc","24bec178855b813179da62d3a82c3d7a7e9affb1a1c360613e3bc68bf2e3545c","e9c3d179d00e231494fa858d219a153695337b77d3488a286ef8f328380aa70c","b517784a2317e694ce42c937c36b1bc2c9d2628978011bfb0ce0738f4318a3f8","c66b01aae699d0baf8342b5283b6c7d14ffba70b1b5ba13b435734c06d460bcf","4ac3c1900a7b1f57c0627a49d3e77987f7d0e66b36269ecbd7c94d4aa11252eb","58d74831b2083a12b10ced86ab788a64a22a54d47e6450a31c691e06d04d11ae","6b8c0fa5c8bc9660478520407a9ab10349fd32c3a4c4ce07a1b53431f767d3a6","d70b7629f4b55f6c7a39f94d8405d25708efc566b394b0ada6141f164b4c22c9","21ccee67ee24c71404584402f16bd903f07f4b160e39cbd9f0f2c92fdb0e3dde","2231f7c0fc8ef28c2b82158a4c2c11c37930932e287fd6029b0515ee71bb6da8","04fdee56d43cf5b392de5b7dee22165c5a3a566311c2e0e775fbea167f3dd355"],"20000000","17033d76","66c07e23",true]}
+18:40:38.087 >     Parsing Method [MINING NOTIFY]
+18:40:38.090 > MINER WORK ABORTED >> waiting new job
+18:40:38.092 > >>> Finished job waiting new data from pool    target: 000000000000000000033d760000000000000000000000000000000000000000
+18:40:38.104 > MINER WORK ABORTED >> waiting new job
+18:40:38.106 >     coinbase: 02000000010000000000000000000000000000000000000000000000000000000000000000ffffffff170354140d5075626c69632d506f6f6c0b29b2ff00000044ffffffff02592dcb120000000017a91423e522dfc6656a8fda3d47b4fa53f7585ac758cd870000000000000000266a24aa21a9ed43aee85b0e97e498299ef4636dae8c9cf5057eba6b45c8ca702d33d5504d1d4000000000
+18:40:38.134 > >>> Finished job waiting new data from pool    merkle sha         : >>> Resetting watchdog timer>>> Resetting watchdog timer113f00bd1a70ba426c6c826b004b02d7e8459afe25091548b81a2853cac27589
+18:40:38.247 > >>> STARTING TO HASH NONCES
+18:40:38.248 > >>> STARTING TO HASH NONCES
+18:40:38.975 > >>> Completed 0 share(s), 189601 Khashes, avg. hashrate 64.67 KH/s
+18:40:38.981 > btc price:
+18:40:40.041 > >>> Completed 0 share(s), 189684 Khashes, avg. hashrate 77.86 KH/s
+18:40:40.047 > btc price:
+18:40:41.107 > >>> Completed 0 share(s), 189766 Khashes, avg. hashrate 76.92 KH/s
+18:40:41.113 > btc price:
+18:40:42.173 > >>> Completed 0 share(s), 189848 Khashes, avg. hashrate 76.92 KH/s
+18:40:42.179 > btc price:
+18:40:43.239 > >>> Completed 0 share(s), 189930 Khashes, avg. hashrate 76.92 KH/s
+18:40:43.245 > btc price:
+18:40:44.305 > >>> Completed 0 share(s), 190012 Khashes, avg. hashrate 76.92 KH/s
+18:40:44.311 > btc price:
+18:40:45.371 > >>> Completed 0 share(s), 190095 Khashes, avg. hashrate 77.86 KH/s
+18:40:45.377 > btc price:
+18:40:46.437 > >>> Completed 0 share(s), 190177 Khashes, avg. hashrate 76.92 KH/s
+18:40:46.443 > btc price:
+18:40:47.503 > >>> Completed 0 share(s), 190259 Khashes, avg. hashrate 76.92 KH/s
+18:40:47.509 > btc price:
+18:40:48.569 > >>> Completed 0 share(s), 190341 Khashes, avg. hashrate 76.92 KH/s
+18:40:48.575 > btc price:
+18:40:49.636 > >>> Completed 0 share(s), 190423 Khashes, avg. hashrate 76.85 KH/s
+18:40:49.642 > btc price:
+18:40:50.702 > >>> Completed 0 share(s), 190506 Khashes, avg. hashrate 77.86 KH/s
+18:40:50.708 > btc price:
+18:40:51.768 > >>> Completed 0 share(s), 190588 Khashes, avg. hashrate 76.92 KH/s
+18:40:51.774 > btc price:
+18:40:52.834 > >>> Completed 0 share(s), 190670 Khashes, avg. hashrate 76.92 KH/s
+18:40:52.840 > btc price:
+18:40:53.901 > >>> Completed 0 share(s), 190752 Khashes, avg. hashrate 76.85 KH/s
+18:40:53.907 > btc price:
+18:40:54.968 > >>> Completed 0 share(s), 190834 Khashes, avg. hashrate 76.85 KH/s
+18:40:54.974 > btc price:
+18:40:55.525 >   Sending  : KeepAlive suggest_difficulty
+18:40:55.528 >   Sending  : {"id": 123, "method": "mining.suggest_difficulty", "params": [0.0001]}
+18:40:56.034 > >>> Completed 0 share(s), 190916 Khashes, avg. hashrate 76.92 KH/s
+18:40:56.040 > btc price:
+18:40:57.100 > >>> Completed 0 share(s), 190998 Khashes, avg. hashrate 76.92 KH/s
+18:40:57.106 > btc price:
+18:40:58.166 > >>> Completed 0 share(s), 191081 Khashes, avg. hashrate 77.86 KH/s
+18:40:58.172 > btc price:
+18:40:59.233 > >>> Completed 0 share(s), 191163 Khashes, avg. hashrate 76.85 KH/s
+18:40:59.239 > btc price:
+18:41:00.299 > >>> Completed 0 share(s), 191245 Khashes, avg. hashrate 76.92 KH/s
+18:41:00.305 > btc price:
+18:41:01.365 > >>> Completed 0 share(s), 191327 Khashes, avg. hashrate 76.92 KH/s
+18:41:01.371 > btc price:
+18:41:02.431 > >>> Completed 0 share(s), 191409 Khashes, avg. hashrate 76.92 KH/s
+18:41:02.437 > btc price:
+18:41:03.497 > >>> Completed 0 share(s), 191492 Khashes, avg. hashrate 77.86 KH/s
+18:41:03.503 > btc price:
+18:41:04.564 > >>> Completed 0 share(s), 191574 Khashes, avg. hashrate 76.85 KH/s
+18:41:04.570 > btc price:
+18:41:05.630 > >>> Completed 0 share(s), 191656 Khashes, avg. hashrate 76.92 KH/s
+18:41:05.636 > btc price:
+18:41:06.696 > >>> Completed 0 share(s), 191738 Khashes, avg. hashrate 76.92 KH/s
+18:41:06.702 > btc price:
+18:41:07.762 > >>> Completed 0 share(s), 191820 Khashes, avg. hashrate 76.92 KH/s
+18:41:07.768 > btc price:
+18:41:08.176 > click
+18:41:08.177 > 
+18:41:10.298 > [3220319][E][HTTPClient.cpp:1301] handleHeaderResponse(): hhhh = _cfuvid=EXlwXjUT5BW6WoCCdHfmlQVBBs.NjlbkQ5Assf41004-1723891270146-0.0.1.1-604800000; path=/; domain=.blockchain.com; HttpOnly; Secure; SameSite=None
+18:41:15.311 > [3225331][E][WiFiClientSecure.cpp:144] connect(): start_ssl_client: -1
+18:41:15.320 > >>> Completed 0 share(s), 191902 Khashes, avg. hashrate 76.92 KH/s
+18:41:21.563 > >>> Completed 0 share(s), 192483 Khashes, avg. hashrate 77.10 KH/s
+18:41:22.606 > >>> Completed 0 share(s), 192944 Khashes, avg. hashrate 73.85 KH/s
+18:41:23.651 > >>> Completed 0 share(s), 193026 Khashes, avg. hashrate 78.54 KH/s
+18:41:24.694 > >>> Completed 0 share(s), 193107 Khashes, avg. hashrate 77.59 KH/s
+18:41:25.739 > >>> Completed 0 share(s), 193188 Khashes, avg. hashrate 77.59 KH/s
+18:41:25.773 >   Sending  : KeepAlive suggest_difficulty
+18:41:25.775 >   Sending  : {"id": 124, "method": "mining.suggest_difficulty", "params": [0.0001]}
+18:41:26.781 > >>> Completed 0 share(s), 193269 Khashes, avg. hashrate 77.66 KH/s
+18:41:27.825 > >>> Completed 0 share(s), 193350 Khashes, avg. hashrate 77.66 KH/s
+18:41:28.867 > >>> Completed 0 share(s), 193432 Khashes, avg. hashrate 78.62 KH/s
+18:41:29.912 > >>> Completed 0 share(s), 193513 Khashes, avg. hashrate 77.59 KH/s
+18:41:29.946 > click
+18:41:29.946 > 
+18:41:30.955 > >>> Completed 0 share(s), 193594 Khashes, avg. hashrate 77.59 KH/s
+18:41:30.962 > btc price:
+18:41:30.962 > 59082$
+18:41:32.004 > >>> Completed 0 share(s), 193675 Khashes, avg. hashrate 77.29 KH/s
+18:41:32.010 > btc price:
+18:41:32.010 > 59082$
+18:41:33.051 > >>> Completed 0 share(s), 193757 Khashes, avg. hashrate 78.24 KH/s
+18:41:33.058 > btc price:
+18:41:33.058 > 59082$
+18:41:34.100 > >>> Completed 0 share(s), 193838 Khashes, avg. hashrate 77.29 KH/s
+18:41:34.106 > btc price:
+18:41:34.106 > 59082$
+18:41:35.148 > >>> Completed 0 share(s), 193920 Khashes, avg. hashrate 78.24 KH/s
+18:41:35.154 > btc price:
+18:41:35.154 > 59082$
+18:41:36.197 > >>> Completed 0 share(s), 194001 Khashes, avg. hashrate 77.22 KH/s
+18:41:36.203 > btc price:
+18:41:36.203 > 59082$
+18:41:36.694 > click
+18:41:36.695 > 
+18:41:37.245 > >>> Completed 0 share(s), 194082 Khashes, avg. hashrate 77.29 KH/s
+18:41:37.250 > btc price:
+18:41:37.540 >   Sending  : {"id": 125, "method": "mining.submit", "params": ["34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo","24da6b0","00000044","66c07e23","1add1e3c"]}
+18:41:37.550 >    - Current diff share: 0.001103643952
+18:41:37.553 >    - Current pool diff : 0.001000000000
+18:41:37.559 >    - TX SHARE: 0109f6a847a8170fd8305868d31501b14a7c7921ff84b275b0b353138a030000
+18:41:38.309 > >>> Completed 0 share(s), 194163 Khashes, avg. hashrate 76.06 KH/s
+18:41:38.315 > btc price:
+18:41:38.367 >   Received message from pool
+18:41:38.367 >   Receiving: {"id":125,"error":null,"result":true}
+18:41:38.372 >   Parsed JSON: Success
+18:41:39.376 > >>> Completed 0 share(s), 194245 Khashes, avg. hashrate 76.85 KH/s
+18:41:39.382 > btc price:
+18:41:40.443 > >>> Completed 0 share(s), 194327 Khashes, avg. hashrate 76.92 KH/s
+18:41:40.448 > btc price:
+18:41:41.417 > click
+18:41:41.417 > 
+18:41:41.509 > >>> Completed 0 share(s), 194409 Khashes, avg. hashrate 76.92 KH/s
+18:41:42.553 > >>> Completed 0 share(s), 194490 Khashes, avg. hashrate 77.59 KH/s
+18:41:43.596 > >>> Completed 0 share(s), 194571 Khashes, avg. hashrate 77.66 KH/s
+18:41:44.640 > >>> Completed 0 share(s), 194653 Khashes, avg. hashrate 78.54 KH/s
+18:41:45.684 > >>> Completed 0 share(s), 194734 Khashes, avg. hashrate 77.59 KH/s
+18:41:46.727 > >>> Completed 0 share(s), 194815 Khashes, avg. hashrate 77.66 KH/s
+18:41:47.771 > >>> Completed 0 share(s), 194897 Khashes, avg. hashrate 78.54 KH/s
+18:41:48.815 > >>> Completed 0 share(s), 194978 Khashes, avg. hashrate 77.59 KH/s
+18:41:49.858 > >>> Completed 0 share(s), 195059 Khashes, avg. hashrate 77.66 KH/s
+18:41:50.902 > >>> Completed 0 share(s), 195141 Khashes, avg. hashrate 78.54 KH/s
+18:41:51.946 > >>> Completed 0 share(s), 195222 Khashes, avg. hashrate 77.59 KH/s
+18:41:52.990 > >>> Completed 0 share(s), 195303 Khashes, avg. hashrate 77.59 KH/s
+18:41:54.033 > >>> Completed 0 share(s), 195385 Khashes, avg. hashrate 78.62 KH/s
+18:41:55.077 > >>> Completed 0 share(s), 195466 Khashes, avg. hashrate 77.59 KH/s
+18:41:56.120 > >>> Completed 0 share(s), 195547 Khashes, avg. hashrate 77.66 KH/s
+18:41:57.164 > >>> Completed 0 share(s), 195629 Khashes, avg. hashrate 78.54 KH/s
+18:41:58.208 > >>> Completed 0 share(s), 195710 Khashes, avg. hashrate 77.59 KH/s
+18:41:58.744 >   Received message from pool
+18:41:58.745 >   Receiving: {"id":null,"method":"mining.notify","params":["24dad9c","ebb12ec49afa1d61bfb32cc6c2cccd583e1f297b0000373e0000000000000000","02000000010000000000000000000000000000000000000000000000000000000000000000ffffffff170354140d5075626c69632d506f6f6c","ffffffff02bf6bd2120000000017a91423e522dfc6656a8fda3d47b4fa53f7585ac758cd870000000000000000266a24aa21a9ed1e40e66498e0feb5a548cdd976c82f6e650f3095bac73f0664603f9928e1f69b00000000",["b17389ebe21e00fc5ac07460874db4aab688c6df06d8e3d39dfd717938238d88","77403de3bd526d806d5fb85e8a4d38e2266c520428ced71cc3ae141ae4660a27","7c17dcd09901d6080ee0ec72437dca9428bf0b4b43244487df4c898f508ecf01","0167fcc856382b94a36a9a896ad36361aa094a059e5d0bad10ee474246cb556e","3d54a340801a1f3be12b83fd4417e690dc9ad72baa5584e398b786d24a4aa85c","0ae348d9ede869c9ad31b39660a00e58b16c08975b9a32e75ecb0cb04754c416","d5c48e93a51989a1d6b54f44cf7477e32e702d5bf5507dc0542e889d573e4561","1e5e022a2cec9dde988989e0c7f0ae1a4aa0edbf5d228e9b1a328a971fd6db13","3beca4f9363b54289cdb633da0cf46bc91d25259b37c6d7844524693ad371348","ea60b0d64bbec21423251dcffc25ca1a30d934e3d0680ad79404942d2d03a3db","16d43607063dc8c36d0208134e4e00e7c57a0a6f6dfb2d2e9929a617ace88b4c","767687c6918f73060be480793cd54c2a902e6728d99e2938e09b0f5183a2ac76","5880737c98c82cb90b7ea0067eee77ae46c47a72e9fc6842d6b8e0ce1b0b0c27"],"20000000","17033d76","66c07e75",true]}
+18:41:58.863 >     Parsing Method [MINING NOTIFY]
+18:41:58.866 > MINER WORK ABORTED >> waiting new job
+18:41:58.869 > >>> Finished job waiting new data from pool    target: 000000000000000000033d760000000000000000000000000000000000000000
+18:41:58.880 > MINER WORK ABORTED >> waiting new job
+18:41:58.883 >     coinbase: 02000000010000000000000000000000000000000000000000000000000000000000000000ffffffff170354140d5075626c69632d506f6f6c0b29b2ff00000045ffffffff02bf6bd2120000000017a91423e522dfc6656a8fda3d47b4fa53f7585ac758cd870000000000000000266a24aa21a9ed1e40e66498e0feb5a548cdd976c82f6e650f3095bac73f0664603f9928e1f69b00000000
+18:41:58.910 > >>> Finished job waiting new data from pool    merkle sha         : >>> Resetting watchdog timer>>> Resetting watchdog timer8436a85383562454bc9812d3518891b6e855e10ba811c775bf0b3c1f1a00249e
+18:41:59.023 > >>> STARTING TO HASH NONCES
+18:41:59.023 > >>> STARTING TO HASH NONCES
+18:41:59.252 > >>> Completed 0 share(s), 195778 Khashes, avg. hashrate 65.13 KH/s
+18:42:00.296 > >>> Completed 0 share(s), 195859 Khashes, avg. hashrate 77.59 KH/s
+18:42:01.339 > >>> Completed 0 share(s), 195941 Khashes, avg. hashrate 78.62 KH/s
+18:42:02.383 > >>> Completed 0 share(s), 196022 Khashes, avg. hashrate 77.59 KH/s
+18:42:03.427 > >>> Completed 0 share(s), 196103 Khashes, avg. hashrate 77.59 KH/s
+18:42:04.470 > >>> Completed 0 share(s), 196184 Khashes, avg. hashrate 77.66 KH/s
+18:42:04.759 > click
+18:42:04.760 > 
+18:42:08.006 >   Sending  : KeepAlive suggest_difficulty
+18:42:08.008 >   Sending  : {"id": 126, "method": "mining.suggest_difficulty", "params": [0.0001]}
+18:42:17.151 > [3287171][E][ssl_client.cpp:37] _handle_error(): [start_ssl_client():273]: (-29312) SSL - The connection indicated an EOF
+18:42:17.159 > [3287172][E][WiFiClientSecure.cpp:144] connect(): start_ssl_client: -29312
+18:42:21.164 > [3291184][E][HTTPClient.cpp:1301] handleHeaderResponse(): hhhh = _cfuvid=GW_OZlOqho.LLCsu46xoEEPfnULc9wUFwtkK2jXkV4s-1723891341013-0.0.1.1-604800000; path=/; domain=.blockchain.com; HttpOnly; Secure; SameSite=None
+18:42:21.181 > >>> Completed 0 share(s), 196265 Khashes, avg. hashrate 77.59 KH/s
+18:42:21.187 > btc price:
+18:42:21.190 > 59082$
+18:42:22.231 > >>> Completed 0 share(s), 197506 Khashes, avg. hashrate 74.24 KH/s
+18:42:22.237 > btc price:
+18:42:22.237 > 59082$
+18:42:23.279 > >>> Completed 0 share(s), 197588 Khashes, avg. hashrate 78.24 KH/s
+18:42:23.285 > btc price:
+18:42:23.285 > 59082$
+18:42:24.327 > >>> Completed 0 share(s), 197669 Khashes, avg. hashrate 77.29 KH/s
+18:42:24.333 > btc price:
+18:42:24.333 > 59082$
+18:42:25.375 > >>> Completed 0 share(s), 197751 Khashes, avg. hashrate 78.24 KH/s
+18:42:25.381 > btc price:
+18:42:25.381 > 59082$
+18:42:26.423 > >>> Completed 0 share(s), 197832 Khashes, avg. hashrate 77.29 KH/s
+18:42:26.429 > btc price:
+18:42:26.429 > 59082$
+18:42:27.471 > >>> Completed 0 share(s), 197914 Khashes, avg. hashrate 78.24 KH/s
+18:42:27.477 > btc price:
+18:42:27.477 > 59082$
+18:42:28.520 > >>> Completed 0 share(s), 197995 Khashes, avg. hashrate 77.22 KH/s
+18:42:28.527 > btc price:
+18:42:28.527 > 59082$
+18:42:29.568 > >>> Completed 0 share(s), 198077 Khashes, avg. hashrate 78.24 KH/s
+18:42:29.574 > btc price:
+18:42:29.574 > 59082$
+18:42:30.616 > >>> Completed 0 share(s), 198159 Khashes, avg. hashrate 78.24 KH/s
+18:42:30.622 > btc price:
+18:42:30.622 > 59082$
+18:42:31.664 > >>> Completed 0 share(s), 198240 Khashes, avg. hashrate 77.29 KH/s
+18:42:31.670 > btc price:
+18:42:31.670 > 59082$
+18:42:32.712 > >>> Completed 0 share(s), 198321 Khashes, avg. hashrate 77.29 KH/s
+18:42:32.719 > btc price:
+18:42:32.719 > 59082$
+18:42:33.760 > >>> Completed 0 share(s), 198403 Khashes, avg. hashrate 78.24 KH/s
+18:42:33.766 > btc price:
+18:42:33.766 > 59082$
+18:42:34.258 > click
+18:42:34.258 > 
+18:42:34.808 > >>> Completed 0 share(s), 198484 Khashes, avg. hashrate 77.29 KH/s
+18:42:34.814 > btc price:
+18:42:35.873 > >>> Completed 0 share(s), 198566 Khashes, avg. hashrate 77.00 KH/s
+18:42:35.879 > btc price:
+18:42:36.940 > >>> Completed 0 share(s), 198648 Khashes, avg. hashrate 76.85 KH/s
+18:42:36.946 > btc price:
+18:42:38.006 > >>> Completed 0 share(s), 198730 Khashes, avg. hashrate 76.92 KH/s
+18:42:38.012 > btc price:
+18:42:38.063 >   Sending  : KeepAlive suggest_difficulty
+18:42:38.066 >   Sending  : {"id": 127, "method": "mining.suggest_difficulty", "params": [0.0001]}
+18:42:39.072 > >>> Completed 0 share(s), 198812 Khashes, avg. hashrate 76.92 KH/s
+18:42:39.078 > btc price:
+18:42:40.138 > >>> Completed 0 share(s), 198895 Khashes, avg. hashrate 77.86 KH/s
+18:42:40.144 > btc price:
+18:42:41.204 > >>> Completed 0 share(s), 198977 Khashes, avg. hashrate 76.92 KH/s
+18:42:41.210 > btc price:
+18:42:42.271 > >>> Completed 0 share(s), 199059 Khashes, avg. hashrate 76.85 KH/s
+18:42:42.277 > btc price:
+18:42:43.338 > >>> Completed 0 share(s), 199141 Khashes, avg. hashrate 76.85 KH/s
+18:42:43.344 > btc price:
+18:42:43.753 > click
+18:42:43.753 > 
+18:42:44.405 > >>> Completed 0 share(s), 199223 Khashes, avg. hashrate 76.85 KH/s
+18:42:45.449 > >>> Completed 0 share(s), 199304 Khashes, avg. hashrate 77.59 KH/s
+18:42:46.492 > >>> Completed 0 share(s), 199385 Khashes, avg. hashrate 77.66 KH/s
+18:42:47.536 > >>> Completed 0 share(s), 199467 Khashes, avg. hashrate 78.54 KH/s
+18:42:48.580 > >>> Completed 0 share(s), 199548 Khashes, avg. hashrate 77.59 KH/s
+18:42:49.624 > >>> Completed 0 share(s), 199629 Khashes, avg. hashrate 77.59 KH/s
+18:42:50.667 > >>> Completed 0 share(s), 199711 Khashes, avg. hashrate 78.62 KH/s
+18:42:51.711 > >>> Completed 0 share(s), 199792 Khashes, avg. hashrate 77.59 KH/s
+18:42:52.754 > >>> Completed 0 share(s), 199873 Khashes, avg. hashrate 77.66 KH/s
+18:42:53.798 > >>> Completed 0 share(s), 199955 Khashes, avg. hashrate 78.54 KH/s
+18:42:54.843 > >>> Completed 0 share(s), 200036 Khashes, avg. hashrate 77.59 KH/s
+18:42:55.886 > >>> Completed 0 share(s), 200117 Khashes, avg. hashrate 77.59 KH/s
+18:42:56.380 > click
+18:42:56.380 > 
+18:42:56.929 > >>> Completed 0 share(s), 200197 Khashes, avg. hashrate 76.70 KH/s
+18:42:56.936 > btc price:
+18:42:56.936 > 59082$
+18:42:57.977 > >>> Completed 0 share(s), 200279 Khashes, avg. hashrate 78.24 KH/s
+18:42:57.984 > btc price:
+18:42:57.984 > 59082$
+18:42:59.026 > >>> Completed 0 share(s), 200360 Khashes, avg. hashrate 77.22 KH/s
+18:42:59.033 > btc price:
+18:42:59.033 > 59082$
+18:43:00.074 > >>> Completed 0 share(s), 200442 Khashes, avg. hashrate 78.24 KH/s
+18:43:00.081 > btc price:
+18:43:00.081 > 59082$
+18:43:01.122 > >>> Completed 0 share(s), 200523 Khashes, avg. hashrate 77.29 KH/s
+18:43:01.129 > btc price:
+18:43:01.129 > 59082$
+18:43:01.163 >   Received message from pool
+18:43:01.163 >   Receiving: {"id":null,"method":"mining.notify","params":["24db47a","ebb12ec49afa1d61bfb32cc6c2cccd583e1f297b0000373e0000000000000000","02000000010000000000000000000000000000000000000000000000000000000000000000ffffffff170354140d5075626c69632d506f6f6c","ffffffff02f30dd5120000000017a91423e522dfc6656a8fda3d47b4fa53f7585ac758cd870000000000000000266a24aa21a9ed5933cf9d51e1c3a718a7c584b0d92399aa912d1088e69b63d05f79dfc8130e8400000000",["b17389ebe21e00fc5ac07460874db4aab688c6df06d8e3d39dfd717938238d88","b70a7268455bbf7bea9e046a048ede8299b9a419a91ac239070e470058a3f23c","dd29201198a72447bf1d7d5f633215c5e4bb89fab8f424b47e4f8d63b7a73a4f","76ba1fd37e7b363e1b94d693b1c4b580015b2f10333b4a9011d313dbdb67b163","63d8f68b339cf01730eda0fa3d67301d05f264c7742782581ce216d0c23162e6","36ab678640750d87562352b9e201448f80822ea955e1950741131788db91f530","0790587f76a1113f5529119bd3b3227d574317aaf81973286d908c3c7f27dd0a","b235b0b9c302e6787421c542772d5a97f1dc284ea3b558961ebd6ea9ab467711","7d0c0e2f694e3c4a1fbd5df34fe70efc1c359d6ee15b75016fe7153812ffd5fd","fa189c2a13bf156fe090ea9015351585aeabd6eb8b99bcedfed9c95e8257cdf3","2326b89b0b7303a44403493e7c8133778d12bfd0a8759f6af7d83ba346d0ad43","623bc57938f19dcf95dee55b3d45747160d901e7cf330a7787edf0a39f417530","69990ebf0dc26877445028d9e98babe3b6d730ead740ea3b8f9e0fc38b5444d8"],"20000000","17033d76","66c07eb1",true]}
+18:43:01.282 >     Parsing Method [MINING NOTIFY]
+18:43:01.285 > MINER WORK ABORTED >> waiting new job
+18:43:01.287 > >>> Finished job waiting new data from pool    target: 000000000000000000033d760000000000000000000000000000000000000000
+18:43:01.299 > MINER WORK ABORTED >> waiting new job
+18:43:01.301 >     coinbase: 02000000010000000000000000000000000000000000000000000000000000000000000000ffffffff170354140d5075626c69632d506f6f6c0b29b2ff00000046ffffffff02f30dd5120000000017a91423e522dfc6656a8fda3d47b4fa53f7585ac758cd870000000000000000266a24aa21a9ed5933cf9d51e1c3a718a7c584b0d92399aa912d1088e69b63d05f79dfc8130e8400000000
+18:43:01.329 > >>> Finished job waiting new data from pool    merkle sha         : >>> Resetting watchdog timer>>> Resetting watchdog timer3e55e4bc92ca1953fc6218f12a76d665fe5780dbb5bac6574eb6d64a5d76869c
+18:43:01.442 > >>> STARTING TO HASH NONCES
+18:43:01.442 > >>> STARTING TO HASH NONCES
+18:43:02.170 > >>> Completed 0 share(s), 200592 Khashes, avg. hashrate 65.84 KH/s
+18:43:02.177 > btc price:
+18:43:02.177 > 59082$
+18:43:03.219 > >>> Completed 0 share(s), 200673 Khashes, avg. hashrate 77.22 KH/s
+18:43:03.226 > btc price:
+18:43:03.226 > 59082$
+18:43:04.268 > >>> Completed 0 share(s), 200755 Khashes, avg. hashrate 78.17 KH/s
+18:43:04.275 > btc price:
+18:43:04.275 > 59082$
+18:43:05.316 > >>> Completed 0 share(s), 200836 Khashes, avg. hashrate 77.29 KH/s
+18:43:05.323 > btc price:
+18:43:05.323 > 59082$
+18:43:06.364 > >>> Completed 0 share(s), 200917 Khashes, avg. hashrate 77.29 KH/s
+18:43:06.371 > btc price:
+18:43:06.371 > 59082$
+18:43:07.412 > >>> Completed 0 share(s), 200999 Khashes, avg. hashrate 78.24 KH/s
+18:43:07.419 > btc price:
+18:43:07.419 > 59082$
+18:43:08.462 > >>> Completed 0 share(s), 201080 Khashes, avg. hashrate 77.14 KH/s
+18:43:08.469 > btc price:
+18:43:08.469 > 59082$
+18:43:08.500 >   Sending  : KeepAlive suggest_difficulty
+18:43:08.503 >   Sending  : {"id": 128, "method": "mining.suggest_difficulty", "params": [0.0001]}
+18:43:09.509 > >>> Completed 0 share(s), 201162 Khashes, avg. hashrate 78.32 KH/s
+18:43:09.516 > btc price:
+18:43:09.516 > 59082$
+18:43:10.557 > >>> Completed 0 share(s), 201243 Khashes, avg. hashrate 77.29 KH/s
+18:43:10.564 > btc price:
+18:43:10.564 > 59082$
+18:43:11.605 > >>> Completed 0 share(s), 201325 Khashes, avg. hashrate 78.24 KH/s
+18:43:11.612 > btc price:
+18:43:11.612 > 59082$
+18:43:12.655 > >>> Completed 0 share(s), 201406 Khashes, avg. hashrate 77.22 KH/s
+18:43:12.661 > btc price:
+18:43:12.661 > 59082$
+18:43:13.702 > >>> Completed 0 share(s), 201487 Khashes, avg. hashrate 77.29 KH/s
+18:43:13.709 > btc price:
+18:43:13.709 > 59082$
+18:43:14.750 > >>> Completed 0 share(s), 201569 Khashes, avg. hashrate 78.24 KH/s
+18:43:14.757 > btc price:
+18:43:14.757 > 59082$
+18:43:15.798 > >>> Completed 0 share(s), 201650 Khashes, avg. hashrate 77.29 KH/s
+18:43:15.805 > btc price:
+18:43:15.805 > 59082$
+18:43:16.847 > >>> Completed 0 share(s), 201732 Khashes, avg. hashrate 78.24 KH/s
+18:43:16.853 > btc price:
+18:43:16.853 > 59082$
+18:43:17.894 > >>> Completed 0 share(s), 201813 Khashes, avg. hashrate 77.29 KH/s
+18:43:17.901 > btc price:
+18:43:17.901 > 59082$
+18:43:18.942 > >>> Completed 0 share(s), 201895 Khashes, avg. hashrate 78.24 KH/s
+18:43:18.949 > btc price:
+18:43:18.949 > 59082$
+18:43:19.990 > >>> Completed 0 share(s), 201976 Khashes, avg. hashrate 77.29 KH/s
+18:43:19.997 > btc price:
+18:43:19.997 > 59082$
+18:43:21.038 > >>> Completed 0 share(s), 202058 Khashes, avg. hashrate 78.24 KH/s
+18:43:21.045 > btc price:
+18:43:21.045 > 59082$
+18:43:23.522 > [3353542][E][HTTPClient.cpp:1301] handleHeaderResponse(): hhhh = _cfuvid=4WLfVFwG2aMo3kJ1I9fz6ZLGqa1VRlb1BE0iU1_f7AI-1723891403405-0.0.1.1-604800000; path=/; domain=.blockchain.com; HttpOnly; Secure; SameSite=None
+18:43:32.831 > >>> Completed 0 share(s), 202139 Khashes, avg. hashrate 77.22 KH/s
+18:43:32.837 > btc price:
+18:43:32.837 > 59082$
+18:43:35.814 > >>> Completed 0 share(s), 203025 Khashes, avg. hashrate 75.14 KH/s
+18:43:35.821 > btc price:
+18:43:35.821 > 59082$
+18:43:36.862 > >>> Completed 0 share(s), 203229 Khashes, avg. hashrate 68.39 KH/s
+18:43:36.868 > btc price:
+18:43:36.868 > 59082$
+18:43:37.911 > >>> Completed 0 share(s), 203311 Khashes, avg. hashrate 78.17 KH/s
+18:43:37.917 > btc price:
+18:43:37.917 > 59082$
+18:43:38.693 >   Sending  : KeepAlive suggest_difficulty
+18:43:38.696 >   Sending  : {"id": 129, "method": "mining.suggest_difficulty", "params": [0.0001]}
+18:43:38.959 > >>> Completed 0 share(s), 203392 Khashes, avg. hashrate 77.29 KH/s
+18:43:38.965 > btc price:
+18:43:38.965 > 59082$
+18:43:40.007 > >>> Completed 0 share(s), 203474 Khashes, avg. hashrate 78.24 KH/s
+18:43:40.013 > btc price:
+18:43:40.013 > 59082$
+18:43:41.055 > >>> Completed 0 share(s), 203555 Khashes, avg. hashrate 77.29 KH/s
+18:43:41.061 > btc price:
+18:43:41.061 > 59082$
+18:43:42.103 > >>> Completed 0 share(s), 203637 Khashes, avg. hashrate 78.24 KH/s
+18:43:42.109 > btc price:
+18:43:42.109 > 59082$
+18:43:43.151 > >>> Completed 0 share(s), 203718 Khashes, avg. hashrate 77.29 KH/s
+18:43:43.157 > btc price:
+18:43:43.157 > 59082$
+18:43:44.199 > >>> Completed 0 share(s), 203800 Khashes, avg. hashrate 78.24 KH/s
+18:43:44.205 > btc price:
+18:43:44.205 > 59082$
+18:43:45.247 > >>> Completed 0 share(s), 203881 Khashes, avg. hashrate 77.29 KH/s
+18:43:45.253 > btc price:
+18:43:45.253 > 59082$
+18:43:46.295 > >>> Completed 0 share(s), 203963 Khashes, avg. hashrate 78.24 KH/s
+18:43:46.301 > btc price:
+18:43:46.301 > 59082$
+18:43:47.343 > >>> Completed 0 share(s), 204044 Khashes, avg. hashrate 77.29 KH/s
+18:43:47.349 > btc price:
+18:43:47.349 > 59082$
+18:43:48.392 > >>> Completed 0 share(s), 204125 Khashes, avg. hashrate 77.22 KH/s
+18:43:48.398 > btc price:
+18:43:48.398 > 59082$
+18:43:49.440 > >>> Completed 0 share(s), 204207 Khashes, avg. hashrate 78.24 KH/s
+18:43:49.446 > btc price:
+18:43:49.446 > 59082$
+18:43:50.488 > >>> Completed 0 share(s), 204288 Khashes, avg. hashrate 77.29 KH/s
+18:43:50.494 > btc price:
+18:43:50.494 > 59082$
+18:43:51.536 > >>> Completed 0 share(s), 204370 Khashes, avg. hashrate 78.24 KH/s
+18:43:51.542 > btc price:
+18:43:51.542 > 59082$
+18:43:52.206 >   Sending  : {"id": 130, "method": "mining.submit", "params": ["34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo","24db47a","00000046","66c07eb1","1ad2d697"]}
+18:43:52.217 >    - Current diff share: 0.006670888322
+18:43:52.220 >    - Current pool diff : 0.001000000000
+18:43:52.225 >    - TX SHARE: e9a9be34669b19deb6153d1139576d1f0a9e9c351d60e0931bf31ce795000000
+18:43:52.585 > >>> Completed 0 share(s), 204450 Khashes, avg. hashrate 76.26 KH/s
+18:43:52.592 > btc price:
+18:43:52.592 > 59082$
+18:43:52.626 >   Received message from pool
+18:43:52.626 >   Receiving: {"id":130,"error":null,"result":true}
+18:43:52.631 >   Parsed JSON: Success
+18:43:53.635 > >>> Completed 0 share(s), 204531 Khashes, avg. hashrate 77.14 KH/s
+18:43:53.641 > btc price:
+18:43:53.641 > 59082$
+18:43:54.682 > >>> Completed 0 share(s), 204613 Khashes, avg. hashrate 78.32 KH/s
+18:43:54.688 > btc price:
+18:43:54.688 > 59082$
+18:43:55.731 > >>> Completed 0 share(s), 204694 Khashes, avg. hashrate 77.22 KH/s
+18:43:55.737 > btc price:
+18:43:55.737 > 59082$
+18:43:56.779 > >>> Completed 0 share(s), 204776 Khashes, avg. hashrate 78.24 KH/s
+18:43:56.785 > btc price:
+18:43:56.785 > 59082$
+18:43:57.828 > >>> Completed 0 share(s), 204857 Khashes, avg. hashrate 77.22 KH/s
+18:43:57.834 > btc price:
+18:43:57.834 > 59082$
+18:43:58.876 > >>> Completed 0 share(s), 204939 Khashes, avg. hashrate 78.24 KH/s
+18:43:58.882 > btc price:
+18:43:58.882 > 59082$
+18:43:58.916 >   Received message from pool
+18:43:58.916 >   Receiving: {"id":null,"method":"mining.notify","params":["24dbb54","ebb12ec49afa1d61bfb32cc6c2cccd583e1f297b0000373e0000000000000000","02000000010000000000000000000000000000000000000000000000000000000000000000ffffffff170354140d5075626c69632d506f6f6c","ffffffff02a214d8120000000017a91423e522dfc6656a8fda3d47b4fa53f7585ac758cd870000000000000000266a24aa21a9eded8c0e0cf8b801caa421db2e71bec08fdfe59ed49a658f6ed73f6c71d8e341a800000000",["b17389ebe21e00fc5ac07460874db4aab688c6df06d8e3d39dfd717938238d88","3d615b58d749200eb42b1d9c15453c274499933c8559e0ff9f5c621bfa2acb7e","abedb24724925ea74f7faf753be864694e32e5b55aca30721694239325fee480","73430aa1cc74366cc834de67618987fca5b6f974077a172908ed4f20d5178e99","3f5a0c7ba63daf34d9cd638733e46c1bc0270ce92cbfa4e3e0ef81a2ca5f6b02","5ea26919464e68b85fc573af87be12a5e4f39078a708f09a9b37174917738f7e","377f5b89b0292e658ee59f4804a618b2e5636889ff82360cd213d919f4b649f0","a100931eed81a065e1bc1af9f1b9c8825d0715d3ca4f65ae411e7407c092bef0","a5bfcb5364ee17b1ff2c135ce4e4c4843bb2b8b3760f1de981b459e9a02742b4","0c6caddf567d801ac904409a08360e26c607db681615ee62d6e6ddb58234b0a2","3a73627e0decdfc88e5a3ad47aa2ba2a9752648ea11ecf1cc3d7880f7f555aad","76c0d4e948398872943498acfdeb97d1dc0a1e9e28ac292baa461eb41d3f68ad","729a40d085e7dd30a3352de90c19871be01ea8548dff97e98358ae2971fac08f"],"20000000","17033d76","66c07eed",true]}
+18:43:59.035 >     Parsing Method [MINING NOTIFY]
+18:43:59.038 > MINER WORK ABORTED >> waiting new job
+18:43:59.041 > >>> Finished job waiting new data from pool    target: 000000000000000000033d760000000000000000000000000000000000000000
+18:43:59.052 > MINER WORK ABORTED >> waiting new job
+18:43:59.055 >     coinbase: 02000000010000000000000000000000000000000000000000000000000000000000000000ffffffff170354140d5075626c69632d506f6f6c0b29b2ff00000047ffffffff02a214d8120000000017a91423e522dfc6656a8fda3d47b4fa53f7585ac758cd870000000000000000266a24aa21a9eded8c0e0cf8b801caa421db2e71bec08fdfe59ed49a658f6ed73f6c71d8e341a800000000
+18:43:59.083 > >>> Finished job waiting new data from pool    merkle sha         : >>> Resetting watchdog timerf0>>> Resetting watchdog timer1ae38f39248f38dcf45827fe52ddf5f250fdeb746767f23dc25bd06e99c586
+18:43:59.196 > >>> STARTING TO HASH NONCES
+18:43:59.196 > >>> STARTING TO HASH NONCES
+18:43:59.924 > >>> Completed 0 share(s), 205007 Khashes, avg. hashrate 64.89 KH/s
+18:43:59.930 > btc price:
+18:43:59.930 > 59082$
+18:44:00.973 > >>> Completed 0 share(s), 205089 Khashes, avg. hashrate 78.17 KH/s
+18:44:00.979 > btc price:
+18:44:00.979 > 59082$
+18:44:02.021 > >>> Completed 0 share(s), 205170 Khashes, avg. hashrate 77.29 KH/s
+18:44:02.027 > btc price:
+18:44:02.027 > 59082$
+18:44:03.069 > >>> Completed 0 share(s), 205252 Khashes, avg. hashrate 78.24 KH/s
+18:44:03.076 > btc price:
+18:44:03.076 > 59082$
+18:44:04.117 > >>> Completed 0 share(s), 205333 Khashes, avg. hashrate 77.29 KH/s
+18:44:04.123 > btc price:
+18:44:04.123 > 59082$
+18:44:05.165 > >>> Completed 0 share(s), 205415 Khashes, avg. hashrate 78.24 KH/s
+18:44:05.171 > btc price:
+18:44:05.171 > 59082$
+18:44:06.214 > >>> Completed 0 share(s), 205496 Khashes, avg. hashrate 77.22 KH/s
+18:44:06.220 > btc price:
+18:44:06.220 > 59082$
+18:44:07.262 > >>> Completed 0 share(s), 205578 Khashes, avg. hashrate 78.24 KH/s
+18:44:07.268 > btc price:
+18:44:07.268 > 59082$
+18:44:08.310 > >>> Completed 0 share(s), 205659 Khashes, avg. hashrate 77.29 KH/s
+18:44:08.316 > btc price:
+18:44:08.316 > 59082$
+18:44:09.357 > >>> Completed 0 share(s), 205741 Khashes, avg. hashrate 78.24 KH/s
+18:44:09.364 > btc price:
+18:44:09.364 > 59082$
+18:44:10.407 > >>> Completed 0 share(s), 205822 Khashes, avg. hashrate 77.22 KH/s
+18:44:10.413 > btc price:
+18:44:10.413 > 59082$
+18:44:11.455 > >>> Completed 0 share(s), 205904 Khashes, avg. hashrate 78.24 KH/s
+18:44:11.462 > btc price:
+18:44:11.462 > 59082$
+18:44:12.503 > >>> Completed 0 share(s), 205985 Khashes, avg. hashrate 77.29 KH/s
+18:44:12.509 > btc price:
+18:44:12.509 > 59082$
+18:44:13.551 > >>> Completed 0 share(s), 206067 Khashes, avg. hashrate 78.24 KH/s
+18:44:13.557 > btc price:
+18:44:13.557 > 59082$
+18:44:14.600 > >>> Completed 0 share(s), 206148 Khashes, avg. hashrate 77.22 KH/s
+18:44:14.606 > btc price:
+18:44:14.606 > 59082$
+18:44:15.648 > >>> Completed 0 share(s), 206230 Khashes, avg. hashrate 78.24 KH/s
+18:44:15.655 > btc price:
+18:44:15.655 > 59082$
+18:44:16.696 > >>> Completed 0 share(s), 206311 Khashes, avg. hashrate 77.29 KH/s
+18:44:16.702 > btc price:
+18:44:16.702 > 59082$
+18:44:17.744 > >>> Completed 0 share(s), 206393 Khashes, avg. hashrate 78.24 KH/s
+18:44:17.750 > btc price:
+18:44:17.750 > 59082$
+18:44:18.792 > >>> Completed 0 share(s), 206474 Khashes, avg. hashrate 77.29 KH/s
+18:44:18.799 > btc price:
+18:44:18.799 > 59082$

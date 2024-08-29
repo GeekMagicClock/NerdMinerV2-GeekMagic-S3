@@ -1,0 +1,22 @@
+12:28:10.494 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>false / subscribed>false / wificonnected>true
+12:28:10.494 > [WORKER] ==> Mining subscribe
+12:28:10.494 >   Sending  : {"id": 1, "method": "mining.subscribe", "params": ["NerdMinerV2/V1.6.3"]}
+12:28:10.494 > 
+12:28:10.494 > >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+12:28:10.494 > btc price:
+12:28:10.502 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>false / subscribed>false / wificonnected>true
+12:28:10.887 > Client not connected, trying to connect...
+12:28:11.512 > >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+12:28:11.515 > btc price:
+12:28:11.564 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>false / subscribed>false / wificonnected>true
+12:28:12.574 > >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+12:28:12.577 > btc price:
+12:28:12.626 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>false / subscribed>false / wificonnected>true
+12:28:13.635 > >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+12:28:13.638 > btc price:
+12:28:13.687 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>false / subscribed>false / wificonnected>true
+12:28:13.888 > Imposible to connect to : public-pool.io
+12:28:13.891 > Resolved DNS got: 68.235.52.36
+12:28:14.696 > >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+12:28:14.699 > btc price:
+12:28:14.748 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>false / subscribed>false / wificonnected>true

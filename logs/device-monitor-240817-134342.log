@@ -1,0 +1,50 @@
+13:43:43.724 > SPIFS: Mounting File System...
+13:43:43.724 > SPIFS: Mounted
+13:43:43.724 > SPIFS: Loading config file
+13:43:43.724 > {
+13:43:43.724 >   "poolString": "public-pool.io",
+13:43:43.724 >   "portNumber": 40557,
+13:43:43.724 >   "poolPassword": "",
+13:43:43.724 >   "btcString": "34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo",
+13:43:43.724 >   "gmtZone": 8,
+13:43:43.724 >   "saveStatsToNVS": false
+13:43:43.724 > }
+13:43:43.724 > AllDone: 
+13:43:43.724 > *wm:AutoConnect 
+13:43:43.724 > *wm:Connecting to SAVED AP: google
+13:43:45.102 > *wm:AutoConnect: SUCCESS 
+13:43:45.103 > *wm:STA IP Address: 192.168.1.241
+13:43:45.105 > 
+13:43:45.108 > WiFi connected
+13:43:45.108 > IP address: 192.168.1.241
+13:43:45.111 > PoolString: public-pool.io
+13:43:45.113 > portNumber: 40557
+13:43:45.113 > poolPassword: 
+13:43:45.116 > btcString: 34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo
+13:43:45.119 > TimeZone fromUTC: 8
+13:43:45.122 > 
+13:43:45.122 > Initiating tasks...
+13:43:45.124 > [MONITOR] started
+13:43:45.124 > 
+13:43:45.124 > 
+13:43:45.124 > [WORKER] Started. Running (Stratum) on core 1
+13:43:45.130 > Client not connected, trying to connect...
+13:43:45.133 > [MINER]  0  Started runMiner Task!
+13:43:45.135 > [MINER]  1  Started runMiner Task!
+13:43:45.138 > TimeClient setup done
+13:43:45.141 > CONNECTED - Current ip: 192.168.1.241
+13:43:45.355 > Resolved DNS and save ip (first time) got: 198.18.77.132
+13:43:45.558 > [WORKER] ==> Mining subscribe
+13:43:45.559 >   Sending  : {"id": 1, "method": "mining.subscribe", "params": ["NerdMinerV2/V1.6.3"]}
+13:43:45.568 > 
+13:43:46.378 > TimeClient NTPupdateTime >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+13:43:46.388 > btc price:
+13:43:46.437 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>true / subscribed>false / wificonnected>true
+13:43:46.760 > Client not connected, trying to connect...
+13:43:46.771 > [WORKER] ==> Mining subscribe
+13:43:46.772 >   Sending  : {"id": 1, "method": "mining.subscribe", "params": ["NerdMinerV2/V1.6.3"]}
+13:43:46.781 > 
+13:43:47.974 > Client not connected, trying to connect...
+13:43:47.977 > [WORKER] ==> Mining subscribe
+13:43:47.980 >   Sending  : {"id": 1, "method": "mining.subscribe", "params": ["NerdMinerV2/V1.6.3"]}
+13:43:47.987 > 

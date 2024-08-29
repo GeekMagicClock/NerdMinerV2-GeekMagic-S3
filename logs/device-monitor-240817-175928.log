@@ -1,0 +1,55 @@
+17:59:29.404 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>false / subscribed>false / wificonnected>true
+17:59:29.404 > [WORKER] ==> Mining subscribe
+17:59:29.404 >   Sending  : {"id": 1, "method": "mining.subscribe", "params": ["NerdMinerV2/V1.6.3"]}
+17:59:29.404 > 
+17:59:29.404 > >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+17:59:29.404 > btc price:
+17:59:29.411 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>false / subscribed>false / wificonnected>true
+17:59:29.900 > Client not connected, trying to connect...
+17:59:30.287 > [WORKER] ==> Mining subscribe
+17:59:30.287 >   Sending  : {"id": 1, "method": "mining.subscribe", "params": ["NerdMinerV2/V1.6.3"]}
+17:59:30.296 > 
+17:59:30.421 > >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+17:59:30.423 > btc price:
+17:59:30.472 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>true / subscribed>false / wificonnected>true
+17:59:30.594 >   Receiving: {"id":1,"error":null,"result":[[["mining.notify","0b29b2ff"]],"0b29b2ff",4]}
+17:59:30.599 >     sub_details: 0b29b2ff
+17:59:30.602 >     extranonce1: 0b29b2ff
+17:59:30.605 >     extranonce2_size: 4
+17:59:30.608 > [WORKER] ==> Autorize work
+17:59:30.610 >   Sending  : {"params": ["34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo", "x"], "id": 2, "method": "mining.authorize"}
+17:59:30.620 > 
+17:59:30.816 >   Sending  : {"id": 3, "method": "mining.suggest_difficulty", "params": [0.0001]}
+17:59:31.317 >   Received message from pool
+17:59:31.317 >   Receiving: {"id":2,"error":null,"result":true}
+17:59:31.322 >   Parsed JSON: Success
+17:59:31.325 >   Received message from pool
+17:59:31.328 >   Receiving: {"id":null,"method":"mining.set_difficulty","params":[1000000]}
+17:59:31.333 >     Parsing Method [SET DIFFICULTY]
+17:59:31.336 >     difficulty: 1000000.000000000000
+17:59:31.339 >   Received message from pool
+17:59:31.342 >   Receiving: {"id":null,"method":"mining.notify","params":["24c8991","6e6647123bbbf24c9923fe5998244bf0eaddce7d000327b00000000000000000","02000000010000000000000000000000000000000000000000000000000000000000000000ffffffff170350140d5075626c69632d506f6f6c","ffffffff0294b7ce120000000017a91423e522dfc6656a8fda3d47b4fa53f7585ac758cd870000000000000000266a24aa21a9ed9b3822c8937e92e68e3ad23cf08cfb47a33a229735dc73e8e4c0193aef64873200000000",["b2d62610ab645696a0f7ad3d3007477ff1b89cb8d509964043a7c9e27ea9c032","a7f7ab44380143d0a94c1ca271183670b5f946ffb7dda71d9e682404db8a0f49","42a6889b55dac9c22d6cf8bb47ac36a876c60ede8787ed56c1d325c9d3d49288","db1ef4bd91fac02676254833f3c03f39224bdc28ca9ab044d72a4250a99d133a","217354eace9b9134dfae57ccc262aaa90b76cb17ac850112ff18f2c647c455f0","61708afd8a21dc19bafd11baf6bd9261b7ac3ea507124c7841f557032dc013fc","161e45824c3379a206c6f6196a3249a9cbe93aa836c1627cb17c549c785d51dd","01a425f770b05bbb78ed305c7f2f53a098581bcab51311416bb9294bca5b4893","ab251f878d95a7d7547258e6535a37e0c38c682232a01996cf209eedc19edd2d","8307ae5f1d49ca47caf4100d1cd4388f271cedf06e00b1aa87d2c7b717360b89","341269ebc82817e741d5a79e3e0daa2362227af040ca948bcd5872cf195010ee","f776335f4592ac9e5ee03d1d2347eb2b31e100193e0fced80da61f65a63c5e0c","3b7438720521e3d70532acc98f4fc332ce6a05a9c5ebf119fc06919d6d9f949b"],"20000000","17033d76","66c07461",true]}
+17:59:31.458 >     Parsing Method [MINING NOTIFY]
+17:59:31.464 >     target: 000000000000000000033d760000000000000000000000000000000000000000
+17:59:31.469 >     coinbase: 02000000010000000000000000000000000000000000000000000000000000000000000000ffffffff170350140d5075626c69632d506f6f6c0b29b2ff00000001ffffffff0294b7ce120000000017a91423e522dfc6656a8fda3d47b4fa53f7585ac758cd870000000000000000266a24aa21a9ed9b3822c8937e92e68e3ad23cf08cfb47a33a229735dc73e8e4c0193aef64873200000000>>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+17:59:31.505 > btc price:
+17:59:31.554 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>true / subscribed>true / wificonnected>true
+17:59:31.562 > 
+17:59:31.562 >     merkle sha         : 882baefc70c41b986777f7d3c92ca6cb0c5cb72cd59d64437818e01001307417
+17:59:31.591 > >>> STARTING TO HASH NONCES
+17:59:31.591 > >>> STARTING TO HASH NONCES
+17:59:32.067 >   Received message from pool
+17:59:32.067 >   Receiving: {"id":null,"method":"mining.set_difficulty","params":[0.0001]}
+17:59:32.075 >     Parsing Method [SET DIFFICULTY]
+17:59:32.078 >     difficulty: 0.000100000000
+17:59:32.149 >   Sending  : {"id": 4, "method": "mining.submit", "params": ["34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo","24c8991","00000001","66c07461","1a982bfa"]}
+17:59:32.160 >    - Current diff share: 0.005226152967
+17:59:32.163 >    - Current pool diff : 0.000100000000
+17:59:32.168 >    - TX SHARE: 33cbe04f5e0dcc6340583b6b40b8c33b5b945e71264fcf09bea6a857bf000000
+17:59:32.563 > >>> Completed 0 share(s), 75 Khashes, avg. hashrate 69.38 KH/s
+17:59:32.566 > btc price:
+17:59:32.618 >   Received message from pool
+17:59:32.618 >   Receiving: {"id":4,"error":null,"result":true}
+17:59:32.623 >   Parsed JSON: Success
+17:59:33.627 > >>> Completed 0 share(s), 157 Khashes, avg. hashrate 77.07 KH/s
+17:59:33.632 > btc price:

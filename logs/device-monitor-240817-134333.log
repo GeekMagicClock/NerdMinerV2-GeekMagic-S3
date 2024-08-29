@@ -1,0 +1,60 @@
+13:43:34.655 > Client not connected, trying to connect...
+13:43:34.655 > [WORKER] ==> Mining subscribe
+13:43:34.655 >   Sending  : {"id": 1, "method": "mining.subscribe", "params": ["NerdMinerV2/V1.6.3"]}
+13:43:34.655 > 
+13:43:34.655 > TimeClient NTPupdateTime >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+13:43:34.655 > btc price:
+13:43:34.655 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>true / subscribed>false / wificonnected>true
+13:43:35.715 > Client not connected, trying to connect...
+13:43:35.719 > [WORKER] ==> Mining subscribe
+13:43:35.722 >   Sending  : {"id": 1, "method": "mining.subscribe", "params": ["NerdMinerV2/V1.6.3"]}
+13:43:35.729 > 
+13:43:36.642 > TimeClient NTPupdateTime >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+13:43:36.652 > btc price:
+13:43:36.701 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>true / subscribed>false / wificonnected>true
+13:43:36.922 > Client not connected, trying to connect...
+13:43:36.925 > [WORKER] ==> Mining subscribe
+13:43:36.928 >   Sending  : {"id": 1, "method": "mining.subscribe", "params": ["NerdMinerV2/V1.6.3"]}
+13:43:36.936 > 
+13:43:38.128 > Client not connected, trying to connect...
+13:43:38.139 > [WORKER] ==> Mining subscribe
+13:43:38.139 >   Sending  : {"id": 1, "method": "mining.subscribe", "params": ["NerdMinerV2/V1.6.3"]}
+13:43:38.149 > 
+13:43:38.581 > E (917257) task_wdt: Task watchdog got triggered. The following tasks did not reset the watchdog in time:
+13:43:38.590 > E (917257) task_wdt:  - Miner0 (CPU 0/1)
+13:43:38.592 > E (917257) task_wdt: Tasks currently running:
+13:43:38.598 > E (917257) task_wdt: CPU 0: IDLE
+13:43:38.601 > E (917257) task_wdt: CPU 1: Stratum
+13:43:38.603 > E (917257) task_wdt: Aborting.
+13:43:38.606 > 
+13:43:38.646 > abort() was called at PC 0x4203cc48 on core 0
+13:43:38.649 > 
+13:43:38.649 > 
+13:43:38.649 > Backtrace: 0x4037e146:0x3fc9d360 0x40383f4d:0x3fc9d380 0x40389cd5:0x3fc9d3a0 0x4203cc48:0x3fc9d420 0x4037f825:0x3fc9d440 0x420cf943:0x3fcf4870 0x4203d4ad:0x3fcf4890 0x403853b0:0x3fcf48b0
+13:43:38.804 > 
+13:43:38.804 >   #0  0x4037e146:0x3fc9d360 in panic_abort at /Users/ficeto/Desktop/ESP32/ESP32S2/esp-idf-public/components/esp_system/panic.c:408
+13:43:38.804 >   #1  0x40383f4d:0x3fc9d380 in esp_system_abort at /Users/ficeto/Desktop/ESP32/ESP32S2/esp-idf-public/components/esp_system/esp_system.c:137
+13:43:38.804 >   #2  0x40389cd5:0x3fc9d3a0 in abort at /Users/ficeto/Desktop/ESP32/ESP32S2/esp-idf-public/components/newlib/abort.c:46
+13:43:38.804 >   #3  0x4203cc48:0x3fc9d420 in task_wdt_isr at /Users/ficeto/Desktop/ESP32/ESP32S2/esp-idf-public/components/esp_system/task_wdt.c:176 (discriminator 3)
+13:43:38.804 >   #4  0x4037f825:0x3fc9d440 in _xt_lowint1 at /Users/ficeto/Desktop/ESP32/ESP32S2/esp-idf-public/components/freertos/port/xtensa/xtensa_vectors.S:1114
+13:43:38.804 >   #5  0x420cf943:0x3fcf4870 in cpu_ll_waiti at /Users/ficeto/Desktop/ESP32/ESP32S2/esp-idf-public/components/hal/esp32s3/include/hal/cpu_ll.h:182
+13:43:38.804 >       (inlined by) esp_pm_impl_waiti at /Users/ficeto/Desktop/ESP32/ESP32S2/esp-idf-public/components/esp_pm/pm_impl.c:847
+13:43:38.804 >   #6  0x4203d4ad:0x3fcf4890 in esp_vApplicationIdleHook at /Users/ficeto/Desktop/ESP32/ESP32S2/esp-idf-public/components/esp_system/freertos_hooks.c:63
+13:43:38.804 >   #7  0x403853b0:0x3fcf48b0 in prvIdleTask at /Users/ficeto/Desktop/ESP32/ESP32S2/esp-idf-public/components/freertos/tasks.c:3987
+13:43:38.804 > 
+13:43:38.804 > 
+13:43:38.804 > 
+13:43:38.804 > 
+13:43:38.804 > ELF file SHA256: 9ae83fdab17a9cc3
+13:43:38.804 > 
+13:43:38.824 > Rebooting...
+13:43:38.830 > ESP-ROM:esp32s3-20210327
+13:43:38.830 > Build:Mar 27 2021
+13:43:38.833 > rst:0xc (RTC_SW_CPU_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+13:43:38.839 > Saved PC:0x4037dd54
+13:43:38.839 > SPIWP:0xee
+13:43:38.841 > mode:DIO, clock div:1
+13:43:38.841 > load:0x3fce3808,len:0x44c
+13:43:38.844 > load:0x403c9700,len:0xbd8
+13:43:38.847 > load:0x403cc700,len:0x2a80
+13:43:38.850 > entry 0x403c98d0

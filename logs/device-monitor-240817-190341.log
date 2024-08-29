@@ -1,0 +1,15 @@
+19:03:44.056 > [4574086][E][HTTPClient.cpp:1301] handleHeaderResponse(): hhhh = _cfuvid=Kt6ghqob51bw2rzX3tDD3E.Hr98q_SZ0zAz7YIRYd1A-1723892623992-0.0.1.1-604800000; path=/; domain=.blockchain.com; HttpOnly; Secure; SameSite=None
+19:03:44.074 > >>> Completed 0 share(s), 296107 Khashes, avg. hashrate 78.17 KH/s
+19:03:44.079 > btc price:
+19:03:44.082 > 59082$
+19:03:45.125 > >>> Completed 0 share(s), 296291 Khashes, avg. hashrate 72.27 KH/s
+19:03:45.131 > btc price:
+19:03:45.131 > 59082$
+19:03:45.663 >   Sending  : KeepAlive suggest_difficulty
+19:03:45.666 >   Sending  : {"id": 181, "method": "mining.suggest_difficulty", "params": [0.0001]}
+19:03:46.173 > >>> Completed 0 share(s), 296372 Khashes, avg. hashrate 77.29 KH/s
+19:03:46.179 > btc price:
+19:03:46.179 > 59082$
+19:03:47.221 > >>> Completed 0 share(s), 296453 Khashes, avg. hashrate 77.29 KH/s
+19:03:48.450 > btc price:
+19:03:48.450 > 59082$

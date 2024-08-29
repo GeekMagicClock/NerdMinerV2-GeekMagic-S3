@@ -1,0 +1,17 @@
+18:04:27.075 >   Sending  : {"id": 27, "method": "mining.submit", "params": ["34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo","24cab61","00000007","66c0758d","1ab7775e"]}
+18:04:27.075 >    - Current diff share: 0.021888156828
+18:04:27.075 >    - Current pool diff : 0.001000000000
+18:04:27.075 >    - TX SHARE: 3a328f00b4d79915721a34d6765d0d17dd40c6e8cd7d43992fe8a4af2d000000
+18:04:27.075 > >>> Completed 0 share(s), 22701 Khashes, avg. hashrate 76.20 KH/s
+18:04:27.075 > btc price:
+18:04:27.075 >   Received message from pool
+18:04:27.075 >   Receiving: {"id":27,"error":null,"result":true}
+18:04:27.075 >   Parsed JSON: Success
+18:04:28.076 > >>> Completed 0 share(s), 22783 Khashes, avg. hashrate 76.92 KH/s
+18:04:28.081 > btc price:
+18:04:29.140 > >>> Completed 0 share(s), 22865 Khashes, avg. hashrate 77.07 KH/s
+18:04:29.145 > btc price:
+18:04:30.204 > >>> Completed 0 share(s), 22947 Khashes, avg. hashrate 77.07 KH/s
+18:04:30.209 > btc price:
+18:04:31.268 > >>> Completed 0 share(s), 23029 Khashes, avg. hashrate 77.07 KH/s
+18:04:31.273 > btc price:

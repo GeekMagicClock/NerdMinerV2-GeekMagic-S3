@@ -1,0 +1,21 @@
+22:05:38.018 > �:Mar 27 2021
+22:05:38.018 > rst:0x1 (POWERON),boot:0x8 (SPI_FAST_FLASH_BOOT)
+22:05:38.018 > SPIWP:0xee
+22:05:38.018 > mode:DIO, clock div:1
+22:05:38.018 > load:0x3fce3808,len:0x44c
+22:05:38.018 > load:0x403c9700,len:0xbd8
+22:05:38.018 > load:0x403cc700,len:0x2a80
+22:05:38.018 > entry 0x403c98d0
+22:05:38.018 > E (359) esp_core_dump_flash: Incorrect size of core dump image: 0
+22:05:38.018 > NerdMiner v2 starting......
+22:05:40.676 > Button pressed to force start config mode
+22:05:40.724 > SPIFS: Mounting File System...
+22:05:40.782 > SPIFS: Mounted
+22:05:40.827 > SPIFS: No config file available!
+22:05:40.830 > AllDone: 
+22:05:40.849 > *wm:StartAP with SSID:  NerdMinerAP
+22:05:41.349 > *wm:AP IP address: 192.168.4.1
+22:05:41.352 > Entered Configuration Mode
+22:05:41.352 > Config SSID: NerdMinerAP
+22:05:41.355 > Config IP Address: 192.168.4.1
+22:05:41.357 > *wm:Starting Web Portal 

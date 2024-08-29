@@ -1,0 +1,200 @@
+22:07:38.193 > u:0x1 (POWERON),boot:0x8 (SPI_FAST_FLASH_BOOT)
+22:07:38.193 > SPIWP:0xee
+22:07:38.193 > mode:DIO, clock div:1
+22:07:38.193 > load:0x3fce3808,len:0x44c
+22:07:38.193 > load:0x403c9700,len:0xbd8
+22:07:38.193 > load:0x403cc700,len:0x2a80
+22:07:38.193 > entry 0x403c98d0
+22:07:38.193 > E (359) esp_core_dump_flash: Incorrect size of core dump image: 0
+22:07:38.193 > NerdMiner v2 starting......
+22:07:40.844 > Button pressed to force start config mode
+22:07:40.893 > SPIFS: Mounting File System...
+22:07:40.951 > SPIFS: Mounted
+22:07:40.996 > SPIFS: No config file available!
+22:07:40.999 > AllDone: 
+22:07:41.018 > *wm:StartAP with SSID:  NerdMinerAP
+22:07:41.518 > *wm:AP IP address: 192.168.4.1
+22:07:41.521 > Entered Configuration Mode
+22:07:41.521 > Config SSID: NerdMinerAP
+22:07:41.523 > Config IP Address: 192.168.4.1
+22:07:41.526 > *wm:Starting Web Portal 
+22:08:04.448 > [ 27336][E][WebServer.cpp:648] _handleRequest(): request handler not found
+22:08:06.957 > [ 29845][E][WebServer.cpp:648] _handleRequest(): request handler not found
+22:08:08.406 > *wm:[ERROR] scan waiting 
+22:08:08.406 > *wm:. 
+22:08:08.506 > *wm:. 
+22:08:08.606 > *wm:. 
+22:08:08.706 > *wm:. 
+22:08:08.806 > *wm:. 
+22:08:08.906 > *wm:. 
+22:08:09.006 > *wm:. 
+22:08:09.106 > *wm:. 
+22:08:09.206 > *wm:. 
+22:08:09.306 > *wm:. 
+22:08:09.406 > *wm:. 
+22:08:09.506 > *wm:. 
+22:08:09.606 > *wm:. 
+22:08:09.706 > *wm:. 
+22:08:09.806 > *wm:. 
+22:08:09.906 > *wm:. 
+22:08:10.006 > *wm:. 
+22:08:10.106 > *wm:. 
+22:08:10.206 > *wm:. 
+22:08:10.306 > *wm:. 
+22:08:10.406 > *wm:. 
+22:08:10.506 > *wm:. 
+22:08:10.606 > *wm:. 
+22:08:10.706 > *wm:. 
+22:08:10.806 > *wm:. 
+22:08:10.906 > *wm:. 
+22:08:11.006 > *wm:. 
+22:08:11.106 > *wm:. 
+22:08:11.206 > *wm:. 
+22:08:11.308 > *wm:-2 networks found
+22:08:19.730 > [ 42618][E][WebServer.cpp:648] _handleRequest(): request handler not found
+22:08:27.836 > Should save config
+22:08:28.858 > *wm:config portal exiting 
+22:08:28.858 > SPIFS: Already Mounted
+22:08:28.860 > SPIFS: Saving configuration.
+22:08:28.953 > {
+22:08:28.953 >   "poolString": "public-pool.io",
+22:08:28.955 >   "portNumber": 21496,
+22:08:28.955 >   "poolPassword": "x",
+22:08:28.958 >   "btcString": "yourBtcAddress",
+22:08:28.961 >   "gmtZone": 2,
+22:08:28.964 >   "saveStatsToNVS": false
+22:08:28.966 > }
+22:08:28.969 > 
+22:08:28.969 > Initiating tasks...
+22:08:28.969 > [MONITOR] started
+22:08:28.977 > >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+22:08:29.031 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>false / subscribed>false / wificonnected>false
+22:08:29.039 > 
+22:08:29.039 > 
+22:08:29.039 > [WORKER] Started. Running (Stratum) on core 1
+22:08:29.041 > [MINER]  0  Started runMiner Task!
+22:08:29.047 > [MINER]  1  Started runMiner Task!
+22:08:29.050 > TimeClient setup done
+22:08:29.050 > [Error] - current status: 6
+22:08:30.038 > >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+22:08:30.091 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>false / subscribed>false / wificonnected>false
+22:08:31.099 > >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+22:08:31.152 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>false / subscribed>false / wificonnected>false
+22:08:32.160 > >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+22:08:32.213 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>false / subscribed>false / wificonnected>false
+22:08:33.221 > >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+22:08:33.274 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>false / subscribed>false / wificonnected>false
+22:08:34.124 > Erasing Config, restarting
+22:08:34.125 > SPIFS: Erasing config file..
+22:08:34.127 > *wm:resetSettings 
+22:08:34.282 > >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+22:08:34.335 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>false / subscribed>false / wificonnected>false
+22:08:34.691 > *wm:SETTINGS ERASED 
+22:08:34.698 > ESP-ROM:esp32s3-20210327
+22:08:34.698 > Build:Mar 27 2021
+22:08:34.701 > rst:0xc (RTC_SW_CPU_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+22:08:34.706 > Saved PC:0x420ce286
+22:08:34.706 > SPIWP:0xee
+22:08:34.709 > mode:DIO, clock div:1
+22:08:34.709 > load:0x3fce3808,len:0x44c
+22:08:34.712 > load:0x403c9700,len:0xbd8
+22:08:34.715 > load:0x403cc700,len:0x2a80
+22:08:34.718 > entry 0x403c98d0
+22:08:35.058 > E (365) esp_core_dump_flash: Incorrect size of core dump image: 0
+22:08:35.178 > NerdMiner v2 starting......
+22:08:38.432 > Button pressed to force start config mode
+22:08:38.478 > SPIFS: Mounting File System...
+22:08:38.536 > SPIFS: Mounted
+22:08:38.581 > SPIFS: No config file available!
+22:08:38.584 > AllDone: 
+22:08:38.602 > *wm:StartAP with SSID:  NerdMinerAP
+22:08:39.900 > *wm:AP IP address: 192.168.4.1
+22:08:39.903 > Entered Configuration Mode
+22:08:39.903 > Config SSID: NerdMinerAP
+22:08:39.906 > Config IP Address: 192.168.4.1
+22:08:39.908 > *wm:Starting Web Portal 
+22:16:32.145 > *wm:[ERROR] scan waiting 
+22:16:32.148 > *wm:. 
+22:16:32.244 > *wm:. 
+22:16:32.344 > *wm:. 
+22:16:32.444 > *wm:. 
+22:16:32.544 > *wm:. 
+22:16:32.644 > *wm:. 
+22:16:32.744 > *wm:. 
+22:16:32.844 > *wm:. 
+22:16:32.944 > *wm:. 
+22:16:33.044 > *wm:. 
+22:16:33.144 > *wm:. 
+22:16:33.244 > *wm:. 
+22:16:33.344 > *wm:. 
+22:16:33.444 > *wm:. 
+22:16:33.544 > *wm:. 
+22:16:33.644 > *wm:. 
+22:16:33.744 > *wm:. 
+22:16:33.844 > *wm:. 
+22:16:33.944 > *wm:. 
+22:16:34.044 > *wm:. 
+22:16:34.144 > *wm:. 
+22:16:34.244 > *wm:. 
+22:16:34.344 > *wm:. 
+22:16:34.444 > *wm:. 
+22:16:34.544 > *wm:. 
+22:16:34.644 > *wm:. 
+22:16:34.744 > *wm:. 
+22:16:34.844 > *wm:. 
+22:16:34.944 > *wm:. 
+22:16:35.044 > *wm:. 
+22:16:35.144 > *wm:. 
+22:16:35.244 > *wm:. 
+22:16:35.344 > *wm:. 
+22:16:35.444 > *wm:. 
+22:16:35.545 > *wm:-2 networks found
+22:17:04.031 > *wm:Connecting to NEW AP: 1024
+22:17:06.254 > *wm:Connect to new AP [SUCCESS] 
+22:17:06.257 > *wm:Got IP Address: 
+22:17:06.257 > *wm:192.168.123.97 
+22:17:06.260 > Should save config
+22:17:07.277 > *wm:config portal exiting 
+22:17:07.277 > failed to connect and hit timeout
+22:17:07.279 > 
+22:17:07.282 > SPIFS: Already Mounted
+22:17:07.282 > SPIFS: Saving configuration.
+22:17:07.373 > {
+22:17:07.373 >   "poolString": "public-pool.io",
+22:17:07.375 >   "portNumber": 21496,
+22:17:07.375 >   "poolPassword": "x",
+22:17:07.378 >   "btcString": "bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh",
+22:17:07.384 >   "gmtZone": 2,
+22:17:07.387 >   "saveStatsToNVS": false
+22:17:07.389 > }
+22:17:10.441 > ���ESP-ROM:esp32s3-20210327
+22:17:10.449 > Build:Mar 27 2021
+22:17:10.451 > rst:0xc (RTC_SW_CPU_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+22:17:10.457 > Saved PC:0x420ce286
+22:17:10.457 > SPIWP:0xee
+22:17:10.459 > mode:DIO, clock div:1
+22:17:10.459 > load:0x3fce3808,len:0x44c
+22:17:10.462 > load:0x403c9700,len:0xbd8
+22:17:10.465 > load:0x403cc700,len:0x2a80
+22:17:10.468 > entry 0x403c98d0
+22:17:10.808 > E (365) esp_core_dump_flash: Incorrect size of core dump image: 0
+22:17:10.931 > NerdMiner v2 starting......
+22:17:14.184 > Button pressed to force start config mode
+22:17:14.231 > SPIFS: Mounting File System...
+22:17:14.288 > SPIFS: Mounted
+22:17:14.288 > SPIFS: Loading config file
+22:17:14.291 > {
+22:17:14.291 >   "poolString": "public-pool.io",
+22:17:14.294 >   "portNumber": 21496,
+22:17:14.296 >   "poolPassword": "x",
+22:17:14.299 >   "btcString": "bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh",
+22:17:14.304 >   "gmtZone": 2,
+22:17:14.305 >   "saveStatsToNVS": false
+22:17:14.309 > }
+22:17:14.309 > AllDone: 
+22:17:14.324 > *wm:StartAP with SSID:  NerdMinerAP
+22:17:15.623 > *wm:AP IP address: 192.168.4.1
+22:17:15.625 > Entered Configuration Mode
+22:17:15.625 > Config SSID: NerdMinerAP
+22:17:15.628 > Config IP Address: 192.168.4.1
+22:17:15.631 > *wm:Starting Web Portal 

@@ -1,0 +1,18 @@
+17:50:44.098 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>true / subscribed>true / wificonnected>true
+17:50:44.098 > >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+17:50:44.098 > btc price:
+17:50:44.103 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>true / subscribed>true / wificonnected>true
+17:50:45.112 > >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+17:50:45.115 > btc price:
+17:50:45.164 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>true / subscribed>true / wificonnected>true
+17:50:45.664 >   Sending  : KeepAlive suggest_difficulty
+17:50:45.666 >   Sending  : {"id": 4, "method": "mining.suggest_difficulty", "params": [0.0001]}
+17:50:46.173 > >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+17:50:46.175 > btc price:
+17:50:46.226 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>true / subscribed>true / wificonnected>true
+17:50:47.236 > >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+17:50:47.239 > btc price:
+17:50:47.287 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>true / subscribed>true / wificonnected>true
+17:50:48.297 > >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+17:50:48.300 > btc price:
+17:50:48.349 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>true / subscribed>true / wificonnected>true

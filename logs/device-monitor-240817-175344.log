@@ -1,0 +1,19 @@
+17:53:45.589 > Run>false) - Client: connected>true / subscribed>false / wificonnected>true
+17:53:45.589 > Client not connected, trying to connect...
+17:53:45.589 > >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+17:53:45.589 > btc price:
+17:53:45.589 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>false / subscribed>false / wificonnected>true
+17:53:46.587 > >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+17:53:46.590 > btc price:
+17:53:46.640 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>false / subscribed>false / wificonnected>true
+17:53:47.649 > >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+17:53:47.652 > btc price:
+17:53:47.701 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>false / subscribed>false / wificonnected>true
+17:53:48.068 > Imposible to connect to : public-pool.io
+17:53:48.091 > Resolved DNS got: 68.235.52.36
+17:53:48.710 > >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+17:53:48.713 > btc price:
+17:53:48.762 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>false / subscribed>false / wificonnected>true
+17:53:49.771 > >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+17:53:49.774 > btc price:
+17:53:49.824 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>false / subscribed>false / wificonnected>true

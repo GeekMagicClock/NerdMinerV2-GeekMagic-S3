@@ -1,0 +1,22 @@
+17:51:12.755 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>true / subscribed>true / wificonnected>true
+17:51:12.755 > >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+17:51:12.755 > btc price:
+17:51:12.759 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>true / subscribed>true / wificonnected>true
+17:51:13.769 > >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+17:51:13.772 > btc price:
+17:51:13.821 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>true / subscribed>true / wificonnected>true
+17:51:14.830 > >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+17:51:14.833 > btc price:
+17:51:14.882 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>true / subscribed>true / wificonnected>true
+17:51:15.382 >   Detected more than 2 min without data form stratum server. Closing socket and reopening...
+17:51:15.388 > Client not connected, trying to connect...
+17:51:15.692 > [WORKER] ==> Mining subscribe
+17:51:15.692 >   Sending  : {"id": 1, "method": "mining.subscribe", "params": ["NerdMinerV2/V1.6.3"]}
+17:51:15.707 > 
+17:51:15.892 > >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+17:51:15.894 > btc price:
+17:51:15.943 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>true / subscribed>false / wificonnected>true
+17:51:16.954 > >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+17:51:16.956 > btc price:
+17:51:17.005 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>true / subscribed>false / wificonnected>true
+17:51:17.014 > Client not connected, trying to connect...

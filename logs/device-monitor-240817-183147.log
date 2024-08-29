@@ -1,0 +1,12 @@
+18:31:48.216 > >>> Completed 0 share(s), 148797 Khashes, avg. hashrate 68.55 KH/s
+18:31:48.991 > >>> Completed 0 share(s), 148879 Khashes, avg. hashrate 78.47 KH/s
+18:31:50.035 > >>> Completed 0 share(s), 148960 Khashes, avg. hashrate 77.59 KH/s
+18:31:50.391 >   Sending  : {"id": 101, "method": "mining.submit", "params": ["34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo","24d6275","00000034","66c07be1","1ad018dd"]}
+18:31:50.402 >    - Current diff share: 0.001104507998
+18:31:50.405 >    - Current pool diff : 0.001000000000
+18:31:50.410 >    - TX SHARE: cad7fe2f1dd1501eb1ca9eab94152f6c14b3671698b1992f69e0de5d89030000
+18:31:50.774 >   Received message from pool
+18:31:50.774 >   Receiving: {"id":101,"error":null,"result":true}
+18:31:50.779 >   Parsed JSON: Success
+18:31:51.079 > >>> Completed 0 share(s), 149040 Khashes, avg. hashrate 76.63 KH/s
+18:31:52.124 > >>> Completed 0 share(s), 149121 Khashes, avg. hashrate 77.51 KH/s

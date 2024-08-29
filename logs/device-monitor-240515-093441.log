@@ -1,0 +1,147 @@
+09:34:43.023 > �r 27 2021
+09:34:43.023 > rst:0x1 (POWERON),boot:0x9 (SPI_FAST_FLASH_BOOT)
+09:34:43.023 > SPIWP:0xee
+09:34:43.023 > mode:DIO, clock div:1
+09:34:43.023 > load:0x3fce3808,len:0x44c
+09:34:43.023 > load:0x403c9700,len:0xbd8
+09:34:43.023 > load:0x403cc700,len:0x2a80
+09:34:43.023 > entry 0x403c98d0
+09:34:43.023 > E (359) esp_core_dump_flash: Incorrect size of core dump image: 0
+09:34:43.023 > NerdMiner v2 starting......
+09:34:46.662 > SPIFS: Mounting File System...
+09:34:46.719 > SPIFS: Mounted
+09:34:46.719 > SPIFS: Loading config file
+09:34:46.722 > {
+09:34:46.722 >   "poolString": "public-pool.io",
+09:34:46.724 >   "portNumber": 21496,
+09:34:46.727 >   "poolPassword": "x",
+09:34:46.730 >   "btcString": "bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh",
+09:34:46.735 >   "gmtZone": 2,
+09:34:46.735 >   "saveStatsToNVS": false
+09:34:46.738 > }
+09:34:46.738 > AllDone: 
+09:34:46.738 > *wm:AutoConnect 
+09:34:46.741 > *wm:Connecting to SAVED AP: 1024
+09:34:48.043 > *wm:AutoConnect: SUCCESS 
+09:34:48.043 > *wm:STA IP Address: 192.168.3.11
+09:34:48.045 > 
+09:34:48.045 > WiFi connected
+09:34:48.048 > IP address: 192.168.3.11
+09:34:48.051 > PoolString: public-pool.io
+09:34:48.054 > portNumber: 21496
+09:34:48.054 > poolPassword: x
+09:34:48.057 > btcString: bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh
+09:34:48.062 > TimeZone fromUTC: 2
+09:34:48.062 > 
+09:34:48.062 > Initiating tasks...
+09:34:48.065 > [MONITOR] started
+09:34:48.065 > 
+09:34:48.068 > 
+09:34:48.068 > [WORKER] Started. Running (Stratum) on core 1
+09:34:48.070 > Client not connected, trying to connect...
+09:34:48.073 > [MINER]  1  Started runMiner Task!
+09:34:48.076 > [MINER]  0  Started runMiner Task!
+09:34:48.081 > TimeClient setup done
+09:34:48.081 > CONNECTED - Current ip: 192.168.3.11
+09:34:48.271 > Resolved DNS and save ip (first time) got: 68.235.52.36
+09:34:48.582 > TimeClient NTPupdateTime >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+09:34:48.644 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>false / subscribed>false / wificonnected>true
+09:34:48.652 > [WORKER] ==> Mining subscribe
+09:34:48.654 >   Sending  : {"id": 1, "method": "mining.subscribe", "params": ["NerdMinerV2/V1.6.3"]}
+09:34:48.662 > 
+09:34:49.088 >   Receiving: {"id":1,"error":null,"result":[[["mining.notify","3e2596e0"]],"3e2596e0",4]}
+09:34:49.094 >     sub_details: 3e2596e0
+09:34:49.096 >     extranonce1: 3e2596e0
+09:34:49.099 >     extranonce2_size: 4
+09:34:49.102 > [WORKER] ==> Autorize work
+09:34:49.105 >   Sending  : {"params": ["bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh", "x"], "id": 2, "method": "mining.authorize"}
+09:34:49.114 > 
+09:34:49.311 >   Sending  : {"id": 3, "method": "mining.suggest_difficulty", "params": [0.0001]}
+09:34:49.651 > >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+09:34:49.704 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>true / subscribed>true / wificonnected>true
+09:34:49.812 >   Received message from pool
+09:34:49.812 >   Receiving: {"id":2,"error":null,"result":true}
+09:34:49.817 >   Parsed JSON: Success
+09:34:50.313 >   Received message from pool
+09:34:50.313 >   Receiving: {"id":null,"method":"mining.set_difficulty","params":[1000000]}
+09:34:50.321 >     Parsing Method [SET DIFFICULTY]
+09:34:50.324 >     difficulty: 1000000.000000000000
+09:34:50.327 >   Received message from pool
+09:34:50.329 >   Receiving: {"id":null,"method":"mining.notify","params":["3ce04c","1101825455ab27aec8d6d0248f0f20f68630ee810001ea290000000000000000","02000000010000000000000000000000000000000000000000000000000000000000000000ffffffff1703efde0c5075626c69632d506f6f6c","ffffffff02ae4a391300000000160014311564348890e005880a9bc834aaa5884f1b59320000000000000000266a24aa21a9ed3b975bb767c70a76c25b31fb0ec981a753b081d844c23cd655a3c2547049d91700000000",["9ff085c1251292796ca5428890b8789ba912232d8821d3e5bc2237fbdbb7e630","990b0598522706c6fc2d35d3085ab1d0a7fec1a47816c00b7abe05b9465523b3","9141ef16f3bb3a2b995ede9849cbf6907315d95b4be898dc5d83774ff7199ea7","53936ec7cfc6d738a68780bdfb7114bb2c2259954e764c1e14a1162d486e3a61","0648c41b40359cd9f38b600ea7f36f5838f367c2df849226e8966b9fbb470acc","05fc1bd20537737c075237e21a6283a8b94848400c20f138cc2dc21b0e62e334","fd223812d7eebcaed20087e805f648dbf76051e2650d505489909eca8f8cf43c","8e7ba936704d293bf7c56171f0037abbeb0c3b90a463f72b5f1da30573cd6dcc","1cd37452d07b21e2cb26da0a76a72495afd5067949476ff629f89766ee1a5dcf","9cb028ea076ebf0b1fa51baff0afc0bc29b31728cd693b52949b36e597f913a0","4c68c940c0a140b4360b3824fccd2cf23d7942c751b17a0e4f12954a06764ec7","77df42f982a7562714bf4f189f5fd6d111f668a7d58473ea07f2c0e3a3945a18"],"20000000","1703629a","66441133",false]}
+09:34:50.440 >     Parsing Method [MINING NOTIFY]
+09:34:50.443 >     target: 00000000000000000003629a0000000000000000000000000000000000000000
+09:34:50.452 >     coinbase: 02000000010000000000000000000000000000000000000000000000000000000000000000ffffffff1703efde0c5075626c69632d506f6f6c3e2596e000000001ffffffff02ae4a391300000000160014311564348890e005880a9bc834aaa5884f1b59320000000000000000266a24aa21a9ed3b975bb767c70a76c25b31fb0ec981a753b081d844c23cd655a3c2547049d91700000000
+09:34:50.479 >     merkle sha         : fc6fe810db239e8f712ad6f91c65ee40a79c0bc517eb0685e616dc3e65963596
+09:34:50.586 > >>> STARTING TO HASH NONCES
+09:34:50.586 > >>> STARTING TO HASH NONCES
+09:34:50.712 > >>> Completed 0 share(s), 9 Khashes, avg. hashrate 8.48 KH/s
+09:34:51.478 >   Received message from pool
+09:34:51.478 >   Receiving: {"id":null,"method":"mining.set_difficulty","params":[0.0001]}
+09:34:51.486 >     Parsing Method [SET DIFFICULTY]
+09:34:51.489 >     difficulty: 0.000100000000
+09:34:51.774 > >>> Completed 0 share(s), 91 Khashes, avg. hashrate 77.21 KH/s
+09:34:52.836 > >>> Completed 0 share(s), 173 Khashes, avg. hashrate 77.21 KH/s
+09:34:53.898 > >>> Completed 0 share(s), 255 Khashes, avg. hashrate 77.21 KH/s
+09:34:54.960 > >>> Completed 0 share(s), 337 Khashes, avg. hashrate 77.21 KH/s
+09:34:56.022 > >>> Completed 0 share(s), 419 Khashes, avg. hashrate 77.21 KH/s
+09:34:57.084 > >>> Completed 0 share(s), 501 Khashes, avg. hashrate 77.21 KH/s
+09:34:58.146 > >>> Completed 0 share(s), 583 Khashes, avg. hashrate 77.21 KH/s
+09:34:59.208 > >>> Completed 0 share(s), 665 Khashes, avg. hashrate 77.21 KH/s
+09:35:00.270 > >>> Completed 0 share(s), 747 Khashes, avg. hashrate 77.21 KH/s
+09:35:01.332 > >>> Completed 0 share(s), 829 Khashes, avg. hashrate 77.21 KH/s
+09:35:02.394 > >>> Completed 0 share(s), 911 Khashes, avg. hashrate 77.21 KH/s
+09:35:03.456 > >>> Completed 0 share(s), 993 Khashes, avg. hashrate 77.21 KH/s
+09:35:04.521 > >>> Completed 0 share(s), 1075 Khashes, avg. hashrate 77.21 KH/s
+09:35:05.553 >   Sending  : {"id": 4, "method": "mining.submit", "params": ["bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh","3ce04c","00000001","66441133","1aa9295c"]}
+09:35:05.564 >    - Current diff share: 0.000350320978
+09:35:05.567 >    - Current pool diff : 0.000100000000
+09:35:05.572 >    - TX SHARE: fc459add7595d651e331aca1c56b10ce144eec1de7fe9baca0d7417b260b0000
+09:35:05.578 > >>> Completed 0 share(s), 1156 Khashes, avg. hashrate 76.27 KH/s
+09:35:06.136 >   Received message from pool
+09:35:06.136 >   Receiving: {"id":4,"error":null,"result":true}
+09:35:06.141 >   Parsed JSON: Success
+09:35:06.643 > >>> Completed 0 share(s), 1238 Khashes, avg. hashrate 77.14 KH/s
+09:35:07.705 > >>> Completed 0 share(s), 1320 Khashes, avg. hashrate 77.21 KH/s
+09:35:08.407 >   Sending  : {"id": 5, "method": "mining.submit", "params": ["bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh","3ce04c","00000001","6share: 0.000101448953
+09:35:08.420 >    - Current pool diff : 0.000100000000
+09:35:08.426 >    - TX SHARE: f09e6423fe62cd724d86907070f4bd5dd5d13a5b275f4449371b160681260000
+09:35:08.643 >   Sending  : {"id": 6, "method": "mining.submit", "params": ["bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh","3ce04c","00000001","66441133","1aacbcd0"]}
+09:35:08.654 >    - Current diff share: 0.000105529125
+09:35:08.657 >    - Current pool diff : 0.000100000000
+09:35:08.662 >    - TX SHARE: 56a4ad8187ed967a5d15d271e9b1bfe52dd0ed23b965b54bd3cf90e903250000
+09:35:08.767 > >>> Completed 0 share(s), 1400 Khashes, avg. hashrate 75.33 KH/s
+09:35:09.829 > >>> Completed 0 share(s), 1482 Khashes, avg. hashrate 77.21 KH/s
+09:35:10.892 > >>> Completed 0 share(s), 1564 Khashes, avg. hashrate 77.21 KH/s
+09:35:11.954 > >>> Completed 0 share(s), 1646 Khashes, avg. hashrate 77.21 KH/s
+09:35:13.015 > >>> Completed 0 share(s), 1728 Khashes, avg. hashrate 77.21 KH/s
+09:35:14.078 > >>> Completed 0 share(s), 1810 Khashes, avg. hashrate 77.14 KH/s
+09:35:15.141 > >>> Completed 0 share(s), 1892 Khashes, avg. hashrate 77.21 KH/s
+09:35:16.203 > >>> Completed 0 share(s), 1975 Khashes, avg. hashrate 78.15 KH/s
+09:35:16.713 >   Sending  : {"id": 7, "method": "mining.submit", "params": ["bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh","3ce04c","00000001","66441133","1ab63696"]}
+09:35:16.724 >    - Current diff share: 0.000140062206
+09:35:16.727 >    - Current pool diff : 0.000100000000
+09:35:16.732 >    - TX SHARE: 4f7f5791f3ef96bf21206fcc61d68fd13b29b7ddd175880107a26993e31b0000
+09:35:17.266 > >>> Completed 0 share(s), 2055 Khashes, avg. hashrate 75.26 KH/s
+09:35:18.150 >   Sending  : {"id": 8, "method": "mining.submit", "params": ["bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh","3ce04c","00000001","66441133","1ab7ffd7"]}
+09:35:18.161 >    - Current diff share: 0.000100339624
+09:35:18.164 >    - Current pool diff : 0.000100000000
+09:35:18.169 >    - TX SHARE: fcbdc9717ad13bc772e3048289d8e2a5ba68560e982f4ca342ee1c00ee260000
+09:35:18.327 > >>> Completed 0 share(s), 2136 Khashes, avg. hashrate 76.27 KH/s
+09:35:19.389 > >>> Completed 0 share(s), 2218 Khashes, avg. hashrate 77.21 KH/s
+09:35:20.451 > >>> Completed 0 share(s), 2300 Khashes, avg. hashrate 77.21 KH/s
+09:35:21.513 > >>> Completed 0 share(s), 2382 Khashes, avg. hashrate 77.21 KH/s
+09:35:21.643 >   Sending  : {"id": 9, "method": "mining.submit", "params": ["bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh","3ce04c","00000001","66441133","1abc0f67"]}
+09:35:21.654 >    - Current diff share: 0.000374536913
+09:35:21.657 >    - Current pool diff : 0.000100000000
+09:35:21.663 >    - TX SHARE: 4b44ad4d44f274d98bf78acfafe7e6d9906f037bc7e4b5ed6dca4dec6d0a0000
+09:35:22.576 > >>> Completed 0 share(s), 2463 Khashes, avg. hashrate 76.27 KH/s
+09:35:23.638 > >>> Completed 0 share(s), 2545 Khashes, avg. hashrate 77.21 KH/s
+09:35:24.699 > >>> Completed 0 share(s), 2627 Khashes, avg. hashrate 77.21 KH/s
+09:35:25.761 > >>> Completed 0 share(s), 2709 Khashes, avg. hashrate 77.21 KH/s
+09:35:26.823 > >>> Completed 0 share(s), 2791 Khashes, avg. hashrate 77.21 KH/s
+09:35:27.885 > >>> Completed 0 share(s), 2873 Khashes, avg. hashrate 77.21 KH/s
+09:35:28.948 > >>> Completed 0 share(s), 2955 Khashes, avg. hashrate 77.14 KH/s
+09:35:30.009 > >>> Completed 0 share(s), 3037 Khashes, avg. hashrate 77.29 KH/s
+09:35:31.073 > >>> Completed 0 share(s), 3119 Khashes, avg. hashrate 77.14 KH/s
+09:35:32.135 > >>> Completed 0 share(s), 3201 Khashes, avg. hashrate 77.21 KH/s
+09:35:33.196 > >>> Completed 0 share(s), 3283 Khashes, avg. hashrate 77.21 KH/s

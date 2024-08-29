@@ -1,0 +1,33 @@
+14:19:54.429 > Client not connected, trying to connect...
+14:19:54.429 > [WORKER] ==> Mining subscribe
+14:19:54.429 >   Sending  : {"id": 1, "method": "mining.subscribe", "params": ["NerdMinerV2/V1.6.3"]}
+14:19:54.429 > 
+14:19:54.772 > TimeClient NTPupdateTime >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+14:19:54.781 > btc price:
+14:19:54.831 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>true / subscribed>false / wificonnected>true
+14:19:54.839 > Client not connected, trying to connect...
+14:19:54.849 > [WORKER] ==> Mining subscribe
+14:19:54.849 >   Sending  : {"id": 1, "method": "mining.subscribe", "params": ["NerdMinerV2/V1.6.3"]}
+14:19:54.859 > 
+14:19:56.051 > Client not connected, trying to connect...
+14:19:56.058 > [WORKER] ==> Mining subscribe
+14:19:56.058 >   Sending  : {"id": 1, "method": "mining.subscribe", "params": ["NerdMinerV2/V1.6.3"]}
+14:19:56.068 > 
+14:19:56.875 > TimeClient NTPupdateTime >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+14:19:56.884 > btc price:
+14:19:56.934 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>true / subscribed>false / wificonnected>true
+14:19:57.260 > Client not connected, trying to connect...
+14:19:57.270 > [WORKER] ==> Mining subscribe
+14:19:57.270 >   Sending  : {"id": 1, "method": "mining.subscribe", "params": ["NerdMinerV2/V1.6.3"]}
+14:19:57.280 > 
+14:19:58.473 > Client not connected, trying to connect...
+14:19:58.478 > [WORKER] ==> Mining subscribe
+14:19:58.478 >   Sending  : {"id": 1, "method": "mining.subscribe", "params": ["NerdMinerV2/V1.6.3"]}
+14:19:58.488 > 
+14:19:58.968 > TimeClient NTPupdateTime >>> Completed 0 share(s), 0 Khashes, avg. hashrate 0.00 KH/s
+14:19:58.978 > btc price:
+14:19:59.027 > >>> [i] Miner: newJob>false / inRun>false) - Client: connected>true / subscribed>false / wificonnected>true
+14:19:59.680 > Client not connected, trying to connect...
+14:19:59.687 > [WORKER] ==> Mining subscribe
+14:19:59.687 >   Sending  : {"id": 1, "method": "mining.subscribe", "params": ["NerdMinerV2/V1.6.3"]}
+14:19:59.697 > 
