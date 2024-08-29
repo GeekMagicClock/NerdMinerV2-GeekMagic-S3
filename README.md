@@ -1,3 +1,9 @@
+# NerdMinerV2  GeekMagic S3 fork and modification
+1. Based on NerdMinerV2, The honour belongs to the original authors and their contributors!
+2. Touch button on top supported, short touch can be used to switch themes(after internet is connected), and long press will reset the device.
+   
+Other test source code and hardware about GeekMagic S3 could be found here. https://github.com/GeekMagicClock/GeekMagic-S3
+
 # NerdSoloMiner
 
 **The NerdSoloMiner v2**
